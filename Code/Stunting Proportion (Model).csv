@@ -1,0 +1,466 @@
+,ISO code,Country and areas,Indicator,Measure,Estimate,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020 1
+0,AFG,Afghanistan,Stunting,Proportion,Point Estimate,54.6,54.4,54.0,53.5,52.9,52.2,51.4,50.4,49.5,48.4,47.2,46.0,44.7,43.4,42.1,41.1,39.9,38.6,37.4,36.3,35.1
+1,AFG,Afghanistan,Stunting,Proportion,Lower Uncertainty Bound,51.5,51.4,51.0,50.4,49.6,48.8,47.9,47.0,46.0,45.0,44.0,43.0,41.9,40.7,39.5,38.5,37.1,35.6,34.2,32.7,31.3
+2,AFG,Afghanistan,Stunting,Proportion,Upper Uncertainty Bound,57.7,57.4,57.0,56.5,56.0,55.5,54.8,53.9,52.9,51.7,50.4,49.0,47.5,46.1,44.8,43.8,42.7,41.7,40.8,40.0,39.1
+3,ALB,Albania,Stunting,Proportion,Point Estimate,29.7,30.0,29.9,29.5,28.7,27.5,26.2,24.7,23.1,21.7,20.3,18.9,17.6,16.5,15.4,14.3,13.3,12.4,11.4,10.4,9.6
+4,ALB,Albania,Stunting,Proportion,Lower Uncertainty Bound,27.6,28.0,27.9,27.5,26.6,25.4,24.1,22.6,21.2,19.8,18.5,17.3,16.1,15.0,13.9,12.8,11.8,10.8,9.8,8.8,8.0
+5,ALB,Albania,Stunting,Proportion,Upper Uncertainty Bound,31.9,32.1,32.0,31.6,30.8,29.7,28.4,26.8,25.2,23.6,22.1,20.6,19.3,18.1,17.0,16.0,15.0,14.2,13.2,12.3,11.5
+6,DZA,Algeria,Stunting,Proportion,Point Estimate,22.1,21.3,20.5,19.7,18.8,17.9,17.0,16.1,15.2,14.4,13.7,13.1,12.6,12.0,11.6,11.1,10.7,10.2,9.9,9.5,9.3
+7,DZA,Algeria,Stunting,Proportion,Lower Uncertainty Bound,20.5,19.8,19.1,18.3,17.4,16.5,15.6,14.7,13.8,13.2,12.5,12.0,11.5,11.0,10.5,10.1,9.6,9.1,8.7,8.3,8.0
+8,DZA,Algeria,Stunting,Proportion,Upper Uncertainty Bound,23.7,22.9,22.0,21.1,20.3,19.5,18.5,17.6,16.7,15.8,15.1,14.4,13.7,13.2,12.6,12.2,11.8,11.4,11.1,10.9,10.7
+12,AGO,Angola,Stunting,Proportion,Point Estimate,47.8,45.1,42.4,39.9,37.7,35.8,34.2,33.1,32.3,32.0,31.9,32.0,32.4,32.9,33.6,34.4,35.2,36.1,36.8,37.4,37.7
+13,AGO,Angola,Stunting,Proportion,Lower Uncertainty Bound,44.3,41.6,39.0,36.6,34.4,32.5,31.0,30.0,29.3,29.1,29.2,29.4,29.8,30.2,30.6,31.0,31.5,31.8,32.0,32.1,32.0
+14,AGO,Angola,Stunting,Proportion,Upper Uncertainty Bound,51.4,48.6,45.9,43.4,41.1,39.2,37.6,36.3,35.4,34.9,34.7,34.8,35.2,35.8,36.7,37.8,39.1,40.5,41.8,43.0,43.9
+21,ARG,Argentina,Stunting,Proportion,Point Estimate,10.5,10.3,10.0,9.7,9.4,9.0,8.7,8.5,8.3,8.2,8.0,7.9,7.8,7.8,7.8,7.8,7.8,7.7,7.7,7.7,7.8
+22,ARG,Argentina,Stunting,Proportion,Lower Uncertainty Bound,9.4,9.1,8.8,8.5,8.2,7.8,7.5,7.3,7.1,7.0,6.9,6.8,6.8,6.8,6.9,6.8,6.8,6.7,6.7,6.6,6.6
+23,ARG,Argentina,Stunting,Proportion,Upper Uncertainty Bound,11.8,11.6,11.3,11.1,10.8,10.4,10.0,9.9,9.7,9.5,9.3,9.1,9.0,8.9,8.9,8.8,8.8,8.8,8.9,9.0,9.1
+24,ARM,Armenia,Stunting,Proportion,Point Estimate,17.7,18.5,19.0,19.3,19.4,19.3,19.0,18.2,17.3,16.5,15.6,14.7,14.0,13.3,12.6,12.0,11.2,10.6,10.0,9.5,9.1
+25,ARM,Armenia,Stunting,Proportion,Lower Uncertainty Bound,16.2,17.0,17.5,17.8,17.8,17.6,17.2,16.5,15.7,15.0,14.2,13.4,12.7,12.0,11.3,10.6,9.8,9.1,8.5,7.9,7.4
+26,ARM,Armenia,Stunting,Proportion,Upper Uncertainty Bound,19.3,20.0,20.6,21.0,21.2,21.1,20.8,20.0,19.1,18.1,17.2,16.2,15.3,14.6,14.0,13.4,12.8,12.3,11.9,11.5,11.2
+27,AUS,Australia,Stunting,Proportion,Point Estimate,1.3,1.3,1.4,1.5,1.5,1.6,1.7,1.8,1.9,1.9,2.0,2.0,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1
+28,AUS,Australia,Stunting,Proportion,Lower Uncertainty Bound,1.1,1.1,1.2,1.2,1.3,1.3,1.4,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.4,1.4,1.3,1.3,1.3,1.2
+29,AUS,Australia,Stunting,Proportion,Upper Uncertainty Bound,1.5,1.6,1.7,1.8,1.9,2.0,2.1,2.2,2.3,2.4,2.5,2.6,2.8,2.9,3.0,3.1,3.2,3.3,3.4,3.5,3.6
+33,AZE,Azerbaijan,Stunting,Proportion,Point Estimate,24.3,24.3,24.2,24.0,23.7,23.1,22.2,21.2,20.2,19.3,18.4,17.7,17.2,16.9,16.6,16.5,16.4,16.4,16.3,16.3,16.3
+34,AZE,Azerbaijan,Stunting,Proportion,Lower Uncertainty Bound,22.7,22.7,22.6,22.3,21.9,21.3,20.5,19.5,18.6,17.8,17.0,16.3,15.7,15.2,14.7,14.3,13.9,13.5,13.2,12.8,12.5
+35,AZE,Azerbaijan,Stunting,Proportion,Upper Uncertainty Bound,26.1,26.1,26.0,25.8,25.5,25.0,24.1,23.0,21.9,20.9,20.0,19.3,18.9,18.7,18.7,18.9,19.3,19.7,20.1,20.5,20.9
+39,BHR,Bahrain,Stunting,Proportion,Point Estimate,11.0,10.4,9.9,9.4,9.0,8.6,8.2,7.8,7.4,7.1,6.8,6.6,6.3,6.1,5.9,5.8,5.6,5.5,5.3,5.2,5.1
+40,BHR,Bahrain,Stunting,Proportion,Lower Uncertainty Bound,8.4,7.7,7.1,6.5,6.0,5.5,5.1,4.7,4.4,4.2,3.9,3.8,3.6,3.4,3.3,3.1,3.0,2.9,2.7,2.6,2.5
+41,BHR,Bahrain,Stunting,Proportion,Upper Uncertainty Bound,14.1,13.9,13.7,13.5,13.3,13.1,12.8,12.5,12.2,11.8,11.5,11.2,11.0,10.7,10.5,10.4,10.3,10.2,10.2,10.1,10.1
+42,BGD,Bangladesh,Stunting,Proportion,Point Estimate,56.0,54.2,52.3,50.5,48.7,47.1,45.5,44.0,42.6,41.4,40.2,39.1,38.1,37.1,36.0,35.0,34.0,33.0,32.0,31.0,30.2
+43,BGD,Bangladesh,Stunting,Proportion,Lower Uncertainty Bound,54.8,52.9,51.1,49.2,47.4,45.6,43.9,42.4,41.1,39.9,38.8,37.8,36.8,35.8,34.6,33.5,32.4,31.2,30.0,28.9,27.8
+44,BGD,Bangladesh,Stunting,Proportion,Upper Uncertainty Bound,57.3,55.4,53.6,51.8,50.1,48.5,47.0,45.6,44.2,42.9,41.7,40.5,39.5,38.5,37.4,36.6,35.7,34.9,34.0,33.2,32.6
+45,BRB,Barbados,Stunting,Proportion,Point Estimate,8.3,8.3,8.2,8.1,8.0,8.0,7.9,8.0,7.9,7.9,7.9,7.8,7.6,7.5,7.4,7.2,7.1,6.9,6.8,6.6,6.6
+46,BRB,Barbados,Stunting,Proportion,Lower Uncertainty Bound,5.1,5.3,5.4,5.6,5.7,5.8,5.9,6.2,6.3,6.4,6.5,6.5,6.4,6.3,6.1,5.9,5.5,5.2,5.0,4.7,4.5
+47,BRB,Barbados,Stunting,Proportion,Upper Uncertainty Bound,13.1,12.7,12.2,11.8,11.3,10.8,10.5,10.3,10.0,9.7,9.5,9.3,9.0,8.9,8.9,8.9,9.0,9.0,9.2,9.3,9.5
+48,BLR,Belarus,Stunting,Proportion,Point Estimate,4.9,4.8,4.7,4.7,4.6,4.5,4.5,4.5,4.2,4.2,4.1,4.0,4.0,3.9,3.9,3.9,3.9,3.9,3.9,3.9,3.9
+49,BLR,Belarus,Stunting,Proportion,Lower Uncertainty Bound,3.7,3.7,3.8,3.9,3.9,3.9,3.8,3.7,3.5,3.3,3.2,3.1,2.9,2.8,2.7,2.6,2.5,2.4,2.3,2.3,2.2
+50,BLR,Belarus,Stunting,Proportion,Upper Uncertainty Bound,6.6,6.2,5.8,5.7,5.5,5.4,5.3,5.3,5.2,5.2,5.2,5.3,5.4,5.5,5.6,5.8,6.0,6.2,6.4,6.6,6.8
+51,BEL,Belgium,Stunting,Proportion,Point Estimate,4.0,3.9,3.8,3.6,3.5,3.4,3.2,3.1,3.0,2.9,2.8,2.7,2.7,2.6,2.5,2.5,2.5,2.4,2.4,2.4,2.3
+52,BEL,Belgium,Stunting,Proportion,Lower Uncertainty Bound,2.3,2.3,2.3,2.3,2.3,2.3,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.1,2.1,2.1,2.0,1.9,1.8,1.8,1.7
+53,BEL,Belgium,Stunting,Proportion,Upper Uncertainty Bound,6.8,6.5,6.1,5.7,5.4,5.0,4.7,4.4,4.1,3.9,3.6,3.4,3.3,3.2,3.1,3.0,3.0,3.1,3.1,3.1,3.2
+54,BLZ,Belize,Stunting,Proportion,Point Estimate,25.2,24.9,24.6,24.1,23.5,22.8,22.1,21.3,20.5,19.7,19.0,18.2,17.5,16.9,16.2,15.6,15.1,14.6,14.1,13.7,13.3
+55,BLZ,Belize,Stunting,Proportion,Lower Uncertainty Bound,19.4,19.8,20.2,20.3,20.3,20.1,19.7,19.2,18.6,18.0,17.4,16.7,16.1,15.4,14.6,13.9,13.2,12.5,11.8,11.2,10.7
+56,BLZ,Belize,Stunting,Proportion,Upper Uncertainty Bound,32.0,30.9,29.6,28.3,27.1,25.9,24.7,23.6,22.6,21.6,20.7,19.8,19.1,18.5,18.0,17.6,17.2,17.0,16.8,16.6,16.5
+57,BEN,Benin,Stunting,Proportion,Point Estimate,36.8,36.4,36.1,36.0,36.1,36.1,36.1,35.9,35.6,35.1,34.6,34.1,33.8,33.5,33.3,33.2,32.9,32.7,32.4,31.9,31.3
+58,BEN,Benin,Stunting,Proportion,Lower Uncertainty Bound,34.3,33.9,33.6,33.5,33.5,33.4,33.3,33.1,32.8,32.4,32.1,31.8,31.5,31.3,31.2,31.0,30.5,30.1,29.5,28.7,27.9
+59,BEN,Benin,Stunting,Proportion,Upper Uncertainty Bound,39.5,39.0,38.7,38.7,38.8,38.9,39.0,38.8,38.4,37.8,37.2,36.5,36.1,35.7,35.5,35.5,35.4,35.5,35.5,35.3,35.0
+60,BTN,Bhutan,Stunting,Proportion,Point Estimate,46.5,45.5,44.3,43.1,41.7,40.3,38.8,37.3,35.8,34.4,33.0,31.6,30.2,28.8,27.6,26.4,25.4,24.5,23.7,23.0,22.4
+61,BTN,Bhutan,Stunting,Proportion,Lower Uncertainty Bound,42.9,42.2,41.2,40.1,38.8,37.4,36.0,34.6,33.2,31.8,30.3,28.6,26.9,25.1,23.3,21.6,20.1,18.8,17.6,16.5,15.6
+62,BTN,Bhutan,Stunting,Proportion,Upper Uncertainty Bound,50.2,48.9,47.6,46.2,44.8,43.2,41.7,40.0,38.5,37.0,35.8,34.7,33.7,32.9,32.3,31.8,31.5,31.3,31.2,31.2,31.2
+63,BOL,Bolivia (Plurinational State of),Stunting,Proportion,Point Estimate,33.4,32.7,31.9,31.0,30.0,28.8,27.4,26.0,24.7,23.5,22.4,21.3,20.3,19.3,18.3,17.2,16.1,15.1,14.2,13.4,12.7
+64,BOL,Bolivia (Plurinational State of),Stunting,Proportion,Lower Uncertainty Bound,31.2,30.5,29.8,28.9,27.8,26.6,25.3,24.0,22.8,21.7,20.7,19.8,18.8,17.8,16.7,15.6,14.4,13.2,12.2,11.3,10.5
+65,BOL,Bolivia (Plurinational State of),Stunting,Proportion,Upper Uncertainty Bound,35.7,34.9,34.1,33.2,32.2,31.0,29.6,28.1,26.7,25.3,24.1,22.9,21.9,20.9,19.9,19.0,18.1,17.2,16.5,15.8,15.3
+66,BIH,Bosnia and Herzegovina,Stunting,Proportion,Point Estimate,12.7,12.3,11.8,11.5,11.2,10.9,10.8,10.6,10.3,10.0,9.8,9.5,9.3,9.2,9.1,9.0,9.0,9.1,9.1,9.1,9.1
+67,BIH,Bosnia and Herzegovina,Stunting,Proportion,Lower Uncertainty Bound,11.1,10.9,10.6,10.3,10.1,9.8,9.7,9.4,9.2,8.9,8.7,8.4,8.1,7.9,7.6,7.4,7.2,7.0,6.9,6.7,6.4
+68,BIH,Bosnia and Herzegovina,Stunting,Proportion,Upper Uncertainty Bound,14.5,13.8,13.2,12.7,12.4,12.1,12.0,11.8,11.5,11.2,11.0,10.7,10.6,10.7,10.8,11.0,11.3,11.7,12.1,12.4,12.7
+69,BWA,Botswana,Stunting,Proportion,Point Estimate,31.5,31.1,30.6,30.0,29.6,28.9,28.2,27.8,27.2,26.5,25.9,25.2,24.4,23.9,23.6,23.5,23.5,23.6,23.5,23.2,22.8
+70,BWA,Botswana,Stunting,Proportion,Lower Uncertainty Bound,29.2,28.8,28.2,27.6,27.0,26.3,25.4,24.9,24.0,23.1,22.2,21.3,20.1,19.2,18.4,17.8,17.2,16.8,16.1,15.4,14.7
+71,BWA,Botswana,Stunting,Proportion,Upper Uncertainty Bound,33.9,33.4,33.0,32.5,32.2,31.7,31.2,31.0,30.5,30.1,29.8,29.6,29.3,29.4,29.7,30.4,31.3,32.2,32.9,33.3,33.6
+72,BRA,Brazil,Stunting,Proportion,Point Estimate,9.8,9.1,8.6,8.1,7.8,7.5,7.3,7.1,6.9,6.7,6.6,6.4,6.3,6.2,6.1,6.1,6.1,6.1,6.1,6.1,6.1
+73,BRA,Brazil,Stunting,Proportion,Lower Uncertainty Bound,8.6,8.0,7.5,7.1,6.8,6.5,6.3,6.1,5.9,5.7,5.4,5.2,5.0,4.7,4.5,4.3,4.2,4.1,3.9,3.8,3.7
+74,BRA,Brazil,Stunting,Proportion,Upper Uncertainty Bound,11.2,10.4,9.8,9.3,8.9,8.6,8.4,8.2,8.1,8.0,7.9,7.9,7.9,8.0,8.2,8.4,8.7,9.1,9.4,9.7,10.0
+78,BRN,Brunei Darussalam,Stunting,Proportion,Point Estimate,20.9,21.0,21.0,20.9,20.7,20.5,20.2,19.8,19.3,18.8,18.4,17.9,17.5,16.9,16.3,15.7,15.0,14.3,13.7,13.2,12.7
+79,BRN,Brunei Darussalam,Stunting,Proportion,Lower Uncertainty Bound,14.6,15.2,15.7,16.2,16.6,16.9,17.0,16.9,16.7,16.4,15.9,15.4,14.7,13.9,13.0,12.0,11.1,10.2,9.5,8.8,8.2
+80,BRN,Brunei Darussalam,Stunting,Proportion,Upper Uncertainty Bound,28.9,28.2,27.3,26.5,25.5,24.6,23.8,23.0,22.2,21.6,21.1,20.9,20.7,20.5,20.3,20.1,19.9,19.7,19.5,19.4,19.3
+81,BGR,Bulgaria,Stunting,Proportion,Point Estimate,10.0,9.8,9.7,9.5,9.3,9.1,8.8,8.6,8.4,8.2,7.9,7.7,7.5,7.4,7.3,7.1,7.0,6.9,6.8,6.6,6.4
+82,BGR,Bulgaria,Stunting,Proportion,Lower Uncertainty Bound,7.9,8.0,8.2,8.3,8.2,8.1,8.0,7.7,7.6,7.3,7.0,6.8,6.6,6.3,6.1,5.9,5.7,5.5,5.2,4.9,4.7
+83,BGR,Bulgaria,Stunting,Proportion,Upper Uncertainty Bound,12.6,12.0,11.4,11.0,10.5,10.1,9.8,9.5,9.4,9.1,8.8,8.7,8.6,8.5,8.6,8.6,8.6,8.7,8.7,8.7,8.7
+84,BFA,Burkina Faso,Stunting,Proportion,Point Estimate,41.5,41.8,42.1,42.3,42.2,42.0,41.5,40.7,39.7,38.5,37.1,35.5,33.9,32.2,30.7,29.3,28.3,27.4,26.7,26.1,25.5
+85,BFA,Burkina Faso,Stunting,Proportion,Lower Uncertainty Bound,38.6,39.0,39.4,39.7,39.7,39.5,39.1,38.4,37.5,36.5,35.3,33.9,32.4,30.9,29.4,28.0,26.9,25.9,25.0,24.2,23.5
+86,BFA,Burkina Faso,Stunting,Proportion,Upper Uncertainty Bound,44.5,44.7,44.9,44.9,44.8,44.4,43.9,43.0,41.9,40.5,39.0,37.2,35.4,33.6,32.0,30.7,29.7,29.0,28.5,28.0,27.7
+87,BDI,Burundi,Stunting,Proportion,Point Estimate,62.3,62.0,61.6,61.2,60.8,60.4,59.8,59.2,58.5,57.9,57.4,57.0,56.8,56.6,56.4,56.3,56.3,56.5,56.8,57.2,57.6
+88,BDI,Burundi,Stunting,Proportion,Lower Uncertainty Bound,58.8,58.9,58.8,58.6,58.3,57.8,57.1,56.4,55.8,55.2,54.7,54.5,54.5,54.4,54.3,54.2,54.2,54.3,54.4,54.5,54.7
+89,BDI,Burundi,Stunting,Proportion,Upper Uncertainty Bound,65.7,64.9,64.3,63.7,63.3,62.9,62.5,61.9,61.2,60.6,60.0,59.5,59.1,58.7,58.4,58.3,58.4,58.7,59.3,59.9,60.6
+90,CPV,Cabo Verde,Stunting,Proportion,Point Estimate,18.0,17.2,16.4,15.7,15.2,14.8,14.6,14.3,14.1,13.7,13.2,12.6,12.2,11.7,11.4,11.0,10.7,10.5,10.2,9.9,9.7
+91,CPV,Cabo Verde,Stunting,Proportion,Lower Uncertainty Bound,13.7,12.7,11.6,10.8,10.0,9.5,9.1,8.8,8.4,8.1,7.7,7.3,6.9,6.6,6.3,6.1,5.8,5.6,5.3,5.0,4.8
+92,CPV,Cabo Verde,Stunting,Proportion,Upper Uncertainty Bound,23.3,23.0,22.7,22.4,22.3,22.4,22.5,22.6,22.5,22.1,21.6,21.0,20.4,19.9,19.5,19.3,19.0,18.8,18.7,18.5,18.5
+93,KHM,Cambodia,Stunting,Proportion,Point Estimate,51.1,49.8,48.6,47.3,46.1,44.8,43.5,42.1,40.6,39.1,37.5,35.9,34.4,33.0,32.0,31.3,30.7,30.4,30.2,30.0,29.9
+94,KHM,Cambodia,Stunting,Proportion,Lower Uncertainty Bound,48.6,47.4,46.2,45.0,43.8,42.5,41.2,39.8,38.4,37.0,35.4,33.8,32.2,30.5,29.2,28.0,27.1,26.3,25.6,25.0,24.5
+95,KHM,Cambodia,Stunting,Proportion,Upper Uncertainty Bound,53.6,52.2,50.9,49.6,48.4,47.1,45.8,44.4,42.8,41.2,39.5,38.0,36.7,35.6,35.0,34.7,34.7,34.9,35.2,35.6,36.1
+96,CMR,Cameroon,Stunting,Proportion,Point Estimate,37.3,37.4,37.4,37.2,36.9,36.5,36.0,35.5,34.8,34.2,33.6,33.1,32.5,32.0,31.4,30.8,30.2,29.5,28.9,28.1,27.2
+97,CMR,Cameroon,Stunting,Proportion,Lower Uncertainty Bound,34.7,35.0,35.1,35.0,34.8,34.4,33.8,33.3,32.7,32.1,31.6,31.2,30.7,30.1,29.6,28.8,28.0,27.1,26.2,25.2,24.1
+98,CMR,Cameroon,Stunting,Proportion,Upper Uncertainty Bound,40.1,39.9,39.7,39.5,39.2,38.8,38.3,37.7,37.1,36.3,35.7,35.0,34.4,33.9,33.4,32.9,32.5,32.0,31.7,31.2,30.5
+102,CAF,Central African Republic,Stunting,Proportion,Point Estimate,43.4,43.5,43.5,43.4,43.3,43.1,42.9,42.6,42.3,42.1,41.8,41.6,41.4,41.6,41.7,41.7,41.6,41.4,41.0,40.5,40.1
+103,CAF,Central African Republic,Stunting,Proportion,Lower Uncertainty Bound,40.7,40.9,41.0,41.0,40.9,40.8,40.5,40.3,40.0,39.9,39.7,39.6,39.5,39.8,40.0,40.0,39.8,39.5,38.9,38.3,37.5
+104,CAF,Central African Republic,Stunting,Proportion,Upper Uncertainty Bound,46.2,46.1,46.0,45.9,45.7,45.6,45.3,45.0,44.7,44.4,44.0,43.6,43.3,43.4,43.4,43.4,43.4,43.3,43.1,42.9,42.7
+105,TCD,Chad,Stunting,Proportion,Point Estimate,42.5,42.4,42.2,42.1,41.8,41.5,41.2,40.9,40.5,40.1,39.6,39.2,38.7,38.4,37.9,37.4,36.9,36.4,36.0,35.5,35.0
+106,TCD,Chad,Stunting,Proportion,Lower Uncertainty Bound,40.1,40.1,40.0,39.8,39.4,38.9,38.5,38.1,37.8,37.5,37.2,36.9,36.6,36.5,36.1,35.7,35.3,34.8,34.2,33.5,32.8
+107,TCD,Chad,Stunting,Proportion,Upper Uncertainty Bound,44.9,44.7,44.6,44.5,44.3,44.1,43.9,43.6,43.2,42.8,42.2,41.5,40.9,40.4,39.7,39.0,38.5,38.1,37.8,37.5,37.3
+108,CHL,Chile,Stunting,Proportion,Point Estimate,2.9,2.7,2.6,2.4,2.3,2.3,2.2,2.1,2.1,2.0,2.0,1.9,1.9,1.9,1.8,1.8,1.7,1.7,1.6,1.6,1.6
+109,CHL,Chile,Stunting,Proportion,Lower Uncertainty Bound,2.7,2.6,2.4,2.3,2.2,2.1,2.0,2.0,1.9,1.9,1.8,1.8,1.7,1.7,1.6,1.5,1.5,1.4,1.3,1.3,1.2
+110,CHL,Chile,Stunting,Proportion,Upper Uncertainty Bound,3.1,2.9,2.7,2.6,2.5,2.4,2.3,2.3,2.2,2.2,2.1,2.1,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+111,CHN,China,Stunting,Proportion,Point Estimate,20.1,18.4,16.8,15.4,14.1,13.0,12.0,11.1,10.3,9.5,8.7,8.0,7.4,6.9,6.4,6.1,5.9,5.5,5.2,4.9,4.7
+112,CHN,China,Stunting,Proportion,Lower Uncertainty Bound,18.8,17.3,15.8,14.5,13.2,12.2,11.2,10.4,9.6,8.9,8.1,7.5,6.9,6.3,5.9,5.5,5.2,4.8,4.5,4.2,3.9
+113,CHN,China,Stunting,Proportion,Upper Uncertainty Bound,21.3,19.5,17.8,16.4,15.0,13.9,12.9,11.9,11.0,10.2,9.3,8.5,7.9,7.4,7.0,6.7,6.6,6.3,6.0,5.8,5.6
+114,COL,Colombia,Stunting,Proportion,Point Estimate,17.5,17.1,16.8,16.3,15.9,15.4,14.8,14.3,13.9,13.6,13.3,13.1,12.9,12.8,12.6,12.4,12.2,12.0,11.8,11.6,11.5
+115,COL,Colombia,Stunting,Proportion,Lower Uncertainty Bound,16.0,15.7,15.4,15.0,14.5,14.0,13.5,13.0,12.6,12.3,12.1,11.9,11.8,11.6,11.3,11.1,10.7,10.4,10.0,9.7,9.4
+116,COL,Colombia,Stunting,Proportion,Upper Uncertainty Bound,19.0,18.6,18.2,17.8,17.4,16.9,16.4,15.8,15.3,14.9,14.6,14.4,14.2,14.1,14.0,13.9,13.8,13.8,13.9,13.9,13.9
+117,COM,Comoros,Stunting,Proportion,Point Estimate,42.4,41.8,40.9,40.2,39.5,38.8,38.2,37.5,36.7,35.8,34.7,33.5,32.3,31.0,29.8,28.7,27.4,26.2,24.9,23.7,22.6
+118,COM,Comoros,Stunting,Proportion,Lower Uncertainty Bound,39.5,38.7,37.6,36.7,35.8,35.0,34.3,33.7,33.0,32.2,31.3,30.2,28.9,27.6,26.1,24.5,22.9,21.3,19.7,18.2,16.9
+119,COM,Comoros,Stunting,Proportion,Upper Uncertainty Bound,45.4,44.9,44.3,43.8,43.3,42.8,42.2,41.5,40.6,39.5,38.3,37.0,35.8,34.8,33.9,33.2,32.4,31.7,31.0,30.3,29.7
+120,COG,Congo,Stunting,Proportion,Point Estimate,36.4,36.1,34.7,33.3,31.9,30.7,29.5,28.3,27.2,26.2,25.1,24.1,23.4,22.7,22.0,21.5,21.0,20.3,19.6,18.8,18.0
+121,COG,Congo,Stunting,Proportion,Lower Uncertainty Bound,29.8,30.3,29.8,29.2,28.5,27.6,26.8,25.9,24.9,24.1,23.1,22.3,21.5,20.8,19.8,19.0,18.2,17.3,16.3,15.3,14.3
+122,COG,Congo,Stunting,Proportion,Upper Uncertainty Bound,43.6,42.3,39.9,37.6,35.6,33.8,32.4,30.9,29.5,28.3,27.1,26.1,25.3,24.8,24.3,24.1,24.0,23.7,23.4,23.0,22.5
+126,CRI,Costa Rica,Stunting,Proportion,Point Estimate,7.7,7.4,7.2,7.0,6.8,6.6,6.5,6.6,6.6,6.6,6.7,6.8,7.0,7.1,7.3,7.5,7.7,7.9,8.2,8.4,8.6
+127,CRI,Costa Rica,Stunting,Proportion,Lower Uncertainty Bound,6.6,6.4,6.2,5.9,5.7,5.6,5.5,5.5,5.6,5.6,5.7,5.9,6.0,6.2,6.4,6.6,6.7,6.9,7.0,7.1,7.2
+128,CRI,Costa Rica,Stunting,Proportion,Upper Uncertainty Bound,8.9,8.7,8.4,8.2,8.0,7.8,7.8,7.8,7.8,7.8,7.9,7.9,8.0,8.2,8.4,8.6,8.9,9.2,9.6,9.9,10.4
+132,CUB,Cuba,Stunting,Proportion,Point Estimate,7.2,7.2,7.2,7.3,7.4,7.3,7.2,7.3,7.2,7.1,7.1,7.1,7.1,7.1,7.1,7.1,7.1,7.1,7.1,7.0,7.0
+133,CUB,Cuba,Stunting,Proportion,Lower Uncertainty Bound,6.1,6.1,6.0,6.0,6.0,5.8,5.7,5.7,5.6,5.5,5.6,5.6,5.7,5.8,5.9,6.0,6.1,6.1,6.1,6.0,5.9
+134,CUB,Cuba,Stunting,Proportion,Upper Uncertainty Bound,8.4,8.4,8.5,8.7,9.0,9.1,9.2,9.3,9.2,9.0,9.0,8.9,8.7,8.6,8.5,8.4,8.3,8.2,8.2,8.2,8.3
+138,CZE,Czechia,Stunting,Proportion,Point Estimate,2.7,2.7,2.7,2.6,2.6,2.6,2.6,2.5,2.5,2.5,2.5,2.5,2.4,2.4,2.4,2.5,2.5,2.5,2.5,2.5,2.5
+139,CZE,Czechia,Stunting,Proportion,Lower Uncertainty Bound,2.3,2.3,2.3,2.2,2.1,2.0,1.9,1.9,1.8,1.8,1.7,1.6,1.6,1.6,1.5,1.5,1.5,1.4,1.4,1.4,1.3
+140,CZE,Czechia,Stunting,Proportion,Upper Uncertainty Bound,3.2,3.1,3.1,3.2,3.2,3.3,3.4,3.4,3.5,3.5,3.6,3.6,3.7,3.8,3.9,4.0,4.1,4.3,4.4,4.6,4.8
+141,CIV,Côte d'Ivoire,Stunting,Proportion,Point Estimate,33.6,33.6,33.7,33.8,34.0,34.0,34.0,33.7,33.2,32.4,31.4,30.6,29.3,28.0,26.7,25.3,23.5,22.0,20.6,19.1,17.8
+142,CIV,Côte d'Ivoire,Stunting,Proportion,Lower Uncertainty Bound,31.0,31.0,31.0,31.1,31.2,31.2,31.2,31.0,30.5,29.9,29.1,28.5,27.3,26.0,24.6,23.0,21.1,19.4,17.8,16.3,14.9
+143,CIV,Côte d'Ivoire,Stunting,Proportion,Upper Uncertainty Bound,36.3,36.4,36.5,36.7,36.8,37.0,36.9,36.6,35.9,34.9,33.8,32.8,31.5,30.1,28.9,27.6,26.1,24.8,23.6,22.4,21.3
+144,PRK,Democratic People's Republic of Korea,Stunting,Proportion,Point Estimate,54.4,52.3,49.0,46.1,43.3,40.4,37.7,35.1,32.8,30.8,29.0,27.5,26.1,24.9,23.7,22.6,21.7,20.7,19.8,18.9,18.2
+145,PRK,Democratic People's Republic of Korea,Stunting,Proportion,Lower Uncertainty Bound,52.1,50.2,47.0,44.1,41.2,38.2,35.4,32.9,30.7,28.7,27.1,25.7,24.4,23.1,21.9,20.7,19.6,18.5,17.4,16.4,15.5
+146,PRK,Democratic People's Republic of Korea,Stunting,Proportion,Upper Uncertainty Bound,56.6,54.3,51.0,48.1,45.4,42.7,40.0,37.4,35.0,32.9,31.0,29.4,27.9,26.7,25.6,24.7,23.9,23.1,22.5,21.8,21.3
+147,COD,Democratic Republic of the Congo,Stunting,Proportion,Point Estimate,47.8,47.5,47.3,46.9,46.3,45.8,45.2,44.6,44.2,43.9,43.6,43.1,42.8,42.4,42.0,41.7,41.7,41.6,41.5,41.2,40.8
+148,COD,Democratic Republic of the Congo,Stunting,Proportion,Lower Uncertainty Bound,45.0,44.8,44.6,44.3,43.8,43.2,42.7,42.1,41.7,41.5,41.3,41.0,40.7,40.2,39.7,39.1,38.8,38.4,37.8,37.1,36.3
+149,COD,Democratic Republic of the Congo,Stunting,Proportion,Upper Uncertainty Bound,50.6,50.2,49.9,49.4,48.9,48.4,47.8,47.2,46.6,46.2,45.8,45.3,44.9,44.5,44.3,44.3,44.6,45.0,45.2,45.4,45.4
+153,DJI,Djibouti,Stunting,Proportion,Point Estimate,30.0,29.9,29.9,29.9,29.8,29.8,29.9,30.0,30.2,30.5,30.8,31.2,31.7,32.2,32.7,33.1,33.5,33.7,33.9,34.0,34.0
+154,DJI,Djibouti,Stunting,Proportion,Lower Uncertainty Bound,27.5,27.4,27.3,27.1,26.9,26.9,26.9,27.0,27.2,27.5,27.9,28.2,28.5,28.6,28.7,28.6,28.4,28.0,27.6,27.0,26.4
+155,DJI,Djibouti,Stunting,Proportion,Upper Uncertainty Bound,32.6,32.6,32.7,32.7,32.8,33.0,33.1,33.2,33.4,33.6,34.0,34.5,35.1,35.9,36.9,38.0,39.0,40.0,40.9,41.8,42.4
+159,DOM,Dominican Republic,Stunting,Proportion,Point Estimate,10.6,10.1,9.7,9.4,9.2,9.0,8.8,8.7,8.6,8.5,8.4,8.2,8.0,7.8,7.6,7.4,7.1,6.9,6.6,6.2,5.9
+160,DOM,Dominican Republic,Stunting,Proportion,Lower Uncertainty Bound,9.7,9.4,9.0,8.7,8.5,8.3,8.1,8.0,7.9,7.8,7.6,7.4,7.1,6.9,6.6,6.2,5.9,5.5,5.1,4.7,4.4
+161,DOM,Dominican Republic,Stunting,Proportion,Upper Uncertainty Bound,11.5,10.9,10.5,10.2,9.9,9.7,9.6,9.5,9.4,9.3,9.2,9.1,9.0,8.9,8.9,8.8,8.7,8.6,8.4,8.2,8.0
+162,ECU,Ecuador,Stunting,Proportion,Point Estimate,28.2,27.9,27.9,28.0,28.0,27.9,27.7,27.3,26.7,26.1,25.4,24.7,24.1,23.5,23.3,23.3,23.3,23.4,23.5,23.4,23.1
+163,ECU,Ecuador,Stunting,Proportion,Lower Uncertainty Bound,25.2,25.3,25.6,25.9,26.0,26.0,25.8,25.4,24.8,24.3,23.7,23.1,22.5,22.0,21.8,21.7,21.6,21.5,21.4,21.0,20.5
+164,ECU,Ecuador,Stunting,Proportion,Upper Uncertainty Bound,31.4,30.7,30.3,30.1,30.0,29.9,29.7,29.3,28.7,28.1,27.2,26.4,25.7,25.1,24.9,25.0,25.1,25.4,25.8,25.9,25.9
+165,EGY,Egypt,Stunting,Proportion,Point Estimate,26.9,26.4,26.0,25.5,25.2,25.1,25.0,25.0,24.7,24.3,23.7,23.1,22.5,22.1,21.9,21.9,22.0,22.1,22.2,22.3,22.3
+166,EGY,Egypt,Stunting,Proportion,Lower Uncertainty Bound,25.5,25.1,24.6,24.1,23.7,23.4,23.3,23.2,23.0,22.6,22.0,21.3,20.6,20.0,19.6,19.3,19.0,18.7,18.5,18.2,17.8
+167,EGY,Egypt,Stunting,Proportion,Upper Uncertainty Bound,28.3,27.8,27.4,27.0,26.8,26.7,26.8,26.8,26.5,26.1,25.5,24.9,24.5,24.3,24.5,24.9,25.4,25.9,26.5,27.0,27.5
+168,SLV,El Salvador,Stunting,Proportion,Point Estimate,28.8,27.6,26.4,25.2,24.1,23.0,21.8,20.6,19.5,18.5,17.6,16.8,16.0,15.2,14.4,13.5,12.8,12.4,12.0,11.6,11.2
+169,SLV,El Salvador,Stunting,Proportion,Lower Uncertainty Bound,26.6,25.5,24.4,23.3,22.2,21.1,19.9,18.8,17.8,16.9,16.1,15.3,14.5,13.6,12.7,11.7,10.9,10.3,9.8,9.2,8.7
+170,SLV,El Salvador,Stunting,Proportion,Upper Uncertainty Bound,31.1,29.7,28.5,27.3,26.1,25.0,23.8,22.5,21.3,20.3,19.3,18.5,17.7,17.0,16.3,15.6,15.1,14.9,14.8,14.5,14.4
+171,GNQ,Equatorial Guinea,Stunting,Proportion,Point Estimate,39.3,38.1,37.1,36.1,35.0,33.9,32.8,31.7,30.3,29.0,27.8,26.7,25.5,24.8,24.0,23.4,22.8,22.0,21.2,20.5,19.7
+172,GNQ,Equatorial Guinea,Stunting,Proportion,Lower Uncertainty Bound,36.9,35.8,34.8,33.7,32.5,31.3,30.2,29.1,27.7,26.4,25.1,23.9,22.5,21.5,20.3,19.4,18.3,17.2,16.1,15.1,14.1
+173,GNQ,Equatorial Guinea,Stunting,Proportion,Upper Uncertainty Bound,41.7,40.5,39.5,38.5,37.5,36.5,35.5,34.4,33.0,31.7,30.6,29.7,28.8,28.4,28.1,28.1,27.9,27.7,27.4,27.2,26.8
+174,ERI,Eritrea,Stunting,Proportion,Point Estimate,47.7,47.1,46.7,46.7,46.7,47.0,47.5,48.0,48.5,49.0,49.4,49.8,50.1,50.3,50.3,50.4,50.3,50.2,49.9,49.5,49.1
+175,ERI,Eritrea,Stunting,Proportion,Lower Uncertainty Bound,44.7,44.1,43.7,43.6,43.6,43.8,44.2,44.6,45.1,45.5,45.7,45.7,45.5,45.2,44.5,43.8,42.9,41.9,40.8,39.6,38.4
+176,ERI,Eritrea,Stunting,Proportion,Upper Uncertainty Bound,50.8,50.1,49.8,49.8,49.9,50.3,50.8,51.3,51.9,52.5,53.1,53.8,54.6,55.4,56.1,57.0,57.7,58.4,59.0,59.5,59.8
+177,EST,Estonia,Stunting,Proportion,Point Estimate,2.1,1.9,1.8,1.8,1.7,1.6,1.6,1.5,1.4,1.4,1.4,1.3,1.3,1.3,1.3,1.3,1.3,1.2,1.2,1.2,1.2
+178,EST,Estonia,Stunting,Proportion,Lower Uncertainty Bound,1.2,1.1,1.1,1.1,1.1,1.1,1.1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.9,0.9,0.9
+179,EST,Estonia,Stunting,Proportion,Upper Uncertainty Bound,3.7,3.3,3.0,2.8,2.6,2.4,2.3,2.1,2.0,1.9,1.8,1.7,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.7,1.7
+180,SWZ,Eswatini,Stunting,Proportion,Point Estimate,36.8,36.5,36.1,35.5,34.9,34.5,34.0,33.5,32.9,32.1,31.1,30.1,29.2,28.2,27.2,26.4,25.6,24.7,24.1,23.3,22.6
+181,SWZ,Eswatini,Stunting,Proportion,Lower Uncertainty Bound,33.4,33.5,33.5,33.1,32.7,32.3,31.9,31.4,30.9,30.2,29.3,28.2,27.2,25.9,24.7,23.4,22.3,21.1,20.1,19.0,18.0
+182,SWZ,Eswatini,Stunting,Proportion,Upper Uncertainty Bound,40.3,39.6,38.8,38.0,37.2,36.7,36.1,35.5,34.9,34.0,33.0,32.0,31.3,30.6,30.0,29.5,29.2,28.7,28.6,28.2,27.9
+183,ETH,Ethiopia,Stunting,Proportion,Point Estimate,57.5,56.1,54.7,53.4,52.0,50.7,49.4,48.1,46.9,45.8,44.7,43.7,42.8,41.8,41.0,40.1,39.2,38.2,37.3,36.3,35.3
+184,ETH,Ethiopia,Stunting,Proportion,Lower Uncertainty Bound,54.5,53.2,52.0,50.7,49.4,48.0,46.7,45.4,44.2,43.2,42.3,41.4,40.6,39.9,39.0,38.1,37.1,35.9,34.8,33.5,32.3
+185,ETH,Ethiopia,Stunting,Proportion,Upper Uncertainty Bound,60.5,58.9,57.4,56.0,54.7,53.4,52.1,50.9,49.6,48.4,47.2,46.0,44.9,43.9,42.9,42.0,41.3,40.5,39.9,39.2,38.5
+186,FJI,Fiji,Stunting,Proportion,Point Estimate,5.9,6.2,6.5,6.7,7.1,7.8,8.1,8.5,8.7,8.8,8.5,8.6,8.5,8.4,8.2,8.0,7.7,7.6,7.5,7.5,7.5
+187,FJI,Fiji,Stunting,Proportion,Lower Uncertainty Bound,5.1,5.4,5.6,5.8,6.1,6.6,6.8,7.0,7.0,7.0,6.6,6.5,6.3,6.0,5.7,5.4,5.0,4.8,4.6,4.4,4.2
+188,FJI,Fiji,Stunting,Proportion,Upper Uncertainty Bound,6.9,7.2,7.5,7.8,8.2,9.1,9.7,10.2,10.7,11.0,10.9,11.3,11.4,11.6,11.7,11.8,11.7,11.9,12.2,12.5,12.9
+195,GAB,Gabon,Stunting,Proportion,Point Estimate,25.8,25.8,25.6,25.3,24.7,23.8,23.1,21.9,20.7,19.6,18.8,17.8,17.2,16.8,16.4,15.9,15.6,15.4,15.1,14.8,14.4
+196,GAB,Gabon,Stunting,Proportion,Lower Uncertainty Bound,22.9,23.0,22.9,22.5,21.8,20.9,20.2,19.1,18.1,17.2,16.5,15.6,15.0,14.5,14.0,13.3,12.7,12.1,11.6,11.0,10.4
+197,GAB,Gabon,Stunting,Proportion,Upper Uncertainty Bound,29.0,28.8,28.6,28.3,27.8,27.0,26.3,25.0,23.6,22.3,21.3,20.2,19.6,19.3,19.2,19.0,19.1,19.3,19.5,19.6,19.6
+198,GMB,Gambia,Stunting,Proportion,Point Estimate,29.8,29.2,28.5,27.8,27.2,26.6,26.1,25.6,25.0,24.4,23.7,23.1,22.4,21.8,21.1,20.4,19.6,18.8,17.9,16.9,16.1
+199,GMB,Gambia,Stunting,Proportion,Lower Uncertainty Bound,27.7,27.2,26.6,26.0,25.3,24.8,24.3,23.8,23.3,22.8,22.2,21.7,21.2,20.6,20.0,19.3,18.5,17.6,16.7,15.6,14.8
+200,GMB,Gambia,Stunting,Proportion,Upper Uncertainty Bound,32.0,31.2,30.5,29.8,29.1,28.5,28.0,27.4,26.8,26.1,25.3,24.5,23.8,23.0,22.3,21.5,20.7,20.0,19.2,18.2,17.6
+201,GEO,Georgia,Stunting,Proportion,Point Estimate,16.2,15.9,15.6,15.2,14.8,14.3,13.5,12.5,11.7,11.0,10.3,9.7,9.2,8.6,8.1,7.6,7.0,6.6,6.3,5.9,5.7
+202,GEO,Georgia,Stunting,Proportion,Lower Uncertainty Bound,14.4,14.4,14.2,13.9,13.5,13.0,12.2,11.3,10.5,9.9,9.2,8.7,8.3,7.7,7.2,6.7,6.2,5.8,5.4,5.0,4.7
+203,GEO,Georgia,Stunting,Proportion,Upper Uncertainty Bound,18.2,17.7,17.2,16.7,16.2,15.7,14.9,13.9,13.0,12.2,11.4,10.7,10.1,9.5,9.0,8.5,8.0,7.6,7.3,7.0,6.8
+204,DEU,Germany,Stunting,Proportion,Point Estimate,1.5,1.5,1.5,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.5,1.5,1.5,1.5,1.5,1.5,1.6,1.6,1.6
+205,DEU,Germany,Stunting,Proportion,Lower Uncertainty Bound,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2
+206,DEU,Germany,Stunting,Proportion,Upper Uncertainty Bound,2.2,2.0,2.0,1.9,1.9,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.9,1.9,2.0,2.0,2.1,2.2
+207,GHA,Ghana,Stunting,Proportion,Point Estimate,33.3,32.7,32.1,31.5,30.8,30.0,29.2,28.2,27.1,26.0,24.8,23.5,22.2,21.0,19.8,18.9,17.9,17.0,16.1,15.1,14.2
+208,GHA,Ghana,Stunting,Proportion,Lower Uncertainty Bound,31.4,30.8,30.3,29.7,29.0,28.3,27.4,26.4,25.4,24.4,23.3,22.1,20.9,19.7,18.5,17.4,16.4,15.3,14.2,13.2,12.1
+209,GHA,Ghana,Stunting,Proportion,Upper Uncertainty Bound,35.3,34.6,33.9,33.3,32.6,31.9,31.0,30.0,28.8,27.6,26.3,24.9,23.6,22.4,21.3,20.5,19.7,18.9,18.1,17.3,16.5
+210,GRC,Greece,Stunting,Proportion,Point Estimate,2.7,2.6,2.5,2.4,2.3,2.3,2.2,2.2,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.2,2.2,2.2,2.2
+211,GRC,Greece,Stunting,Proportion,Lower Uncertainty Bound,2.1,2.1,2.1,2.1,2.0,1.9,1.8,1.7,1.6,1.6,1.5,1.5,1.5,1.4,1.4,1.4,1.3,1.3,1.2,1.2,1.2
+212,GRC,Greece,Stunting,Proportion,Upper Uncertainty Bound,3.3,3.2,3.0,2.9,2.8,2.7,2.7,2.7,2.8,2.8,2.9,2.9,3.0,3.1,3.2,3.3,3.5,3.6,3.7,3.8,4.0
+216,GTM,Guatemala,Stunting,Proportion,Point Estimate,53.8,53.9,53.9,53.7,53.5,53.0,52.4,51.7,50.8,50.0,49.1,48.3,47.5,46.8,46.7,46.2,45.7,45.2,44.7,43.6,42.8
+217,GTM,Guatemala,Stunting,Proportion,Lower Uncertainty Bound,51.7,51.7,51.6,51.3,50.9,50.2,49.5,48.7,47.9,47.1,46.3,45.5,44.7,43.9,43.4,42.6,41.7,40.7,39.7,38.1,36.8
+218,GTM,Guatemala,Stunting,Proportion,Upper Uncertainty Bound,55.9,56.0,56.1,56.2,56.1,55.8,55.3,54.6,53.8,52.9,51.9,51.1,50.3,49.8,49.9,49.8,49.8,49.8,49.9,49.3,49.1
+219,GIN,Guinea,Stunting,Proportion,Point Estimate,34.2,34.4,34.7,35.0,35.3,35.5,35.6,35.6,35.4,35.1,34.7,34.3,33.8,33.4,33.1,32.7,32.2,31.5,30.9,30.2,29.4
+220,GIN,Guinea,Stunting,Proportion,Lower Uncertainty Bound,31.8,32.2,32.5,32.9,33.2,33.4,33.5,33.5,33.4,33.2,32.9,32.5,32.2,31.8,31.4,30.9,30.2,29.3,28.4,27.5,26.5
+221,GIN,Guinea,Stunting,Proportion,Upper Uncertainty Bound,36.6,36.8,36.9,37.2,37.4,37.6,37.8,37.7,37.5,37.1,36.6,36.1,35.5,35.1,34.8,34.5,34.2,33.8,33.5,33.0,32.6
+222,GNB,Guinea-Bissau,Stunting,Proportion,Point Estimate,33.9,33.5,33.2,32.7,32.3,31.9,31.7,31.4,31.2,30.9,30.5,30.0,29.7,29.3,29.1,28.9,28.9,28.8,28.7,28.4,28.0
+223,GNB,Guinea-Bissau,Stunting,Proportion,Lower Uncertainty Bound,30.5,30.5,30.4,30.1,29.7,29.4,29.1,28.9,28.7,28.5,28.3,28.0,27.8,27.6,27.5,27.4,27.2,27.1,26.8,26.3,25.6
+224,GNB,Guinea-Bissau,Stunting,Proportion,Upper Uncertainty Bound,37.5,36.8,36.2,35.5,35.0,34.6,34.3,34.0,33.7,33.3,32.8,32.1,31.6,31.0,30.7,30.5,30.5,30.7,30.7,30.7,30.5
+225,GUY,Guyana,Stunting,Proportion,Point Estimate,15.0,15.4,15.8,16.2,16.6,16.9,17.1,17.2,17.1,16.6,16.0,15.3,14.4,13.5,12.7,11.9,11.2,10.6,10.0,9.5,9.0
+226,GUY,Guyana,Stunting,Proportion,Lower Uncertainty Bound,13.7,14.1,14.5,14.9,15.2,15.5,15.7,15.7,15.6,15.3,14.7,14.0,13.1,12.1,11.2,10.3,9.5,8.8,8.1,7.5,6.9
+227,GUY,Guyana,Stunting,Proportion,Upper Uncertainty Bound,16.3,16.7,17.1,17.6,18.0,18.4,18.7,18.7,18.6,18.1,17.5,16.7,15.9,15.0,14.4,13.8,13.2,12.8,12.4,12.0,11.6
+228,HTI,Haiti,Stunting,Proportion,Point Estimate,30.9,30.2,29.4,28.8,28.2,27.6,27.1,26.6,26.1,25.6,25.1,24.5,23.9,23.3,22.8,22.3,21.8,21.5,21.2,20.7,20.4
+229,HTI,Haiti,Stunting,Proportion,Lower Uncertainty Bound,28.6,27.9,27.2,26.6,25.9,25.4,24.8,24.4,23.9,23.5,23.1,22.6,22.1,21.5,21.0,20.3,19.7,19.2,18.7,18.0,17.4
+230,HTI,Haiti,Stunting,Proportion,Upper Uncertainty Bound,33.4,32.5,31.7,31.1,30.5,30.0,29.5,29.0,28.4,27.8,27.2,26.5,25.8,25.1,24.7,24.3,24.1,24.0,23.9,23.8,23.7
+234,HND,Honduras,Stunting,Proportion,Point Estimate,37.5,36.1,34.6,33.1,31.7,30.4,29.1,27.8,26.5,25.2,24.1,23.3,22.7,22.3,22.1,21.9,21.6,21.3,20.9,20.4,19.9
+235,HND,Honduras,Stunting,Proportion,Lower Uncertainty Bound,35.2,33.8,32.3,30.8,29.4,28.1,26.8,25.5,24.3,23.1,22.0,21.1,20.3,19.7,19.1,18.5,17.9,17.1,16.4,15.6,14.8
+236,HND,Honduras,Stunting,Proportion,Upper Uncertainty Bound,39.9,38.4,36.9,35.5,34.1,32.8,31.5,30.1,28.8,27.5,26.4,25.6,25.3,25.3,25.5,25.7,26.0,26.1,26.2,26.2,26.2
+243,IND,India,Stunting,Proportion,Point Estimate,49.8,49.4,49.1,48.8,48.5,48.2,47.8,47.3,46.6,45.7,44.5,43.1,41.7,40.3,38.9,37.5,36.2,34.8,33.5,32.1,30.9
+244,IND,India,Stunting,Proportion,Lower Uncertainty Bound,47.3,46.9,46.5,46.1,45.6,45.1,44.7,44.1,43.5,42.7,41.7,40.6,39.4,38.2,36.8,35.4,33.9,32.3,30.7,29.0,27.5
+245,IND,India,Stunting,Proportion,Upper Uncertainty Bound,52.3,52.0,51.8,51.6,51.5,51.3,51.0,50.5,49.7,48.7,47.3,45.7,44.0,42.4,41.0,39.7,38.5,37.4,36.4,35.4,34.5
+246,IDN,Indonesia,Stunting,Proportion,Point Estimate,41.5,40.7,40.0,39.4,38.8,38.3,37.8,37.3,36.9,36.3,35.7,35.1,34.5,33.8,33.3,32.9,32.5,32.3,32.2,32.0,31.8
+247,IDN,Indonesia,Stunting,Proportion,Lower Uncertainty Bound,39.5,38.8,38.2,37.5,36.9,36.3,35.7,35.2,34.8,34.3,33.8,33.2,32.6,31.9,31.2,30.7,30.1,29.7,29.2,28.8,28.2
+248,IDN,Indonesia,Stunting,Proportion,Upper Uncertainty Bound,43.6,42.7,41.9,41.2,40.8,40.3,39.8,39.4,39.0,38.4,37.7,37.0,36.4,35.7,35.3,35.1,35.0,35.1,35.3,35.5,35.6
+249,IRN,Iran (Islamic Republic of),Stunting,Proportion,Point Estimate,14.5,12.9,11.4,10.2,9.2,8.4,7.7,7.2,6.8,6.5,6.3,6.1,6.1,6.1,6.1,6.2,6.2,6.2,6.2,6.3,6.3
+250,IRN,Iran (Islamic Republic of),Stunting,Proportion,Lower Uncertainty Bound,13.2,11.7,10.3,9.2,8.2,7.4,6.8,6.3,6.0,5.7,5.4,5.2,5.1,5.0,4.9,4.8,4.6,4.5,4.4,4.2,4.1
+251,IRN,Iran (Islamic Republic of),Stunting,Proportion,Upper Uncertainty Bound,16.0,14.2,12.6,11.3,10.2,9.4,8.7,8.1,7.7,7.4,7.2,7.2,7.3,7.4,7.7,8.0,8.3,8.6,8.9,9.2,9.4
+252,IRQ,Iraq,Stunting,Proportion,Point Estimate,28.4,28.0,27.5,27.3,26.8,26.3,25.8,25.2,24.2,23.0,21.8,20.6,19.2,18.0,17.1,16.2,15.3,14.4,13.4,12.5,11.6
+253,IRQ,Iraq,Stunting,Proportion,Lower Uncertainty Bound,26.2,26.0,25.8,25.7,25.2,24.7,24.1,23.5,22.4,21.3,20.2,19.0,17.7,16.6,15.7,14.7,13.8,12.8,11.8,10.8,9.9
+254,IRQ,Iraq,Stunting,Proportion,Upper Uncertainty Bound,30.7,30.0,29.3,28.9,28.4,28.0,27.5,27.1,26.0,24.8,23.6,22.2,20.7,19.6,18.7,17.8,17.0,16.2,15.3,14.4,13.6
+264,JAM,Jamaica,Stunting,Proportion,Point Estimate,7.4,7.0,6.7,6.5,6.4,6.2,6.2,6.2,6.2,6.3,6.4,6.6,6.8,7.0,7.2,7.5,7.7,7.9,8.1,8.3,8.5
+265,JAM,Jamaica,Stunting,Proportion,Lower Uncertainty Bound,7.0,6.7,6.4,6.2,6.0,5.8,5.8,5.8,5.8,5.9,6.0,6.2,6.3,6.5,6.6,6.8,6.9,6.9,7.0,7.0,7.1
+266,JAM,Jamaica,Stunting,Proportion,Upper Uncertainty Bound,7.8,7.4,7.1,6.9,6.8,6.7,6.6,6.6,6.6,6.7,6.8,7.0,7.3,7.6,7.9,8.3,8.6,9.0,9.4,9.8,10.1
+267,JPN,Japan,Stunting,Proportion,Point Estimate,8.4,8.3,8.1,7.9,7.7,7.6,7.4,7.3,7.1,7.0,6.9,6.7,6.6,6.5,6.3,6.1,6.0,5.8,5.7,5.6,5.5
+268,JPN,Japan,Stunting,Proportion,Lower Uncertainty Bound,5.4,5.6,5.7,5.8,5.8,5.8,5.9,5.9,5.9,5.9,5.8,5.7,5.5,5.2,5.0,4.7,4.4,4.2,3.9,3.7,3.5
+269,JPN,Japan,Stunting,Proportion,Upper Uncertainty Bound,12.7,12.1,11.5,10.8,10.3,9.7,9.3,8.9,8.6,8.4,8.2,8.0,7.9,7.9,7.9,8.0,8.1,8.1,8.2,8.4,8.5
+270,JOR,Jordan,Stunting,Proportion,Point Estimate,11.0,10.7,10.5,10.3,9.9,9.7,9.4,9.1,8.8,8.5,8.2,8.0,7.9,7.8,7.7,7.7,7.7,7.7,7.6,7.5,7.3
+271,JOR,Jordan,Stunting,Proportion,Lower Uncertainty Bound,9.9,9.7,9.5,9.3,9.0,8.7,8.4,8.2,7.9,7.7,7.4,7.2,7.0,6.8,6.6,6.4,6.2,6.0,5.8,5.5,5.2
+272,JOR,Jordan,Stunting,Proportion,Upper Uncertainty Bound,12.2,11.8,11.6,11.4,11.0,10.8,10.5,10.2,9.8,9.4,9.1,9.0,8.9,8.9,9.1,9.3,9.6,9.8,10.1,10.1,10.2
+273,KAZ,Kazakhstan,Stunting,Proportion,Point Estimate,17.7,17.2,16.7,16.2,15.8,15.3,14.7,14.1,13.5,12.8,12.3,11.7,11.1,10.4,9.8,9.1,8.6,8.1,7.6,7.1,6.7
+274,KAZ,Kazakhstan,Stunting,Proportion,Lower Uncertainty Bound,16.1,15.7,15.2,14.8,14.4,13.9,13.3,12.8,12.3,11.7,11.2,10.7,10.1,9.4,8.7,8.0,7.4,6.8,6.2,5.7,5.3
+275,KAZ,Kazakhstan,Stunting,Proportion,Upper Uncertainty Bound,19.4,18.8,18.3,17.8,17.4,16.8,16.2,15.5,14.9,14.1,13.4,12.8,12.1,11.5,10.9,10.4,10.0,9.5,9.1,8.8,8.5
+276,KEN,Kenya,Stunting,Proportion,Point Estimate,38.9,38.7,38.4,38.0,37.5,36.8,36.0,34.9,33.6,32.2,30.7,29.2,27.8,26.5,25.4,24.3,23.4,22.5,21.5,20.4,19.4
+277,KEN,Kenya,Stunting,Proportion,Lower Uncertainty Bound,36.9,36.8,36.5,36.1,35.6,34.9,34.0,32.9,31.7,30.4,28.9,27.4,25.9,24.4,23.0,21.7,20.5,19.2,18.0,16.8,15.6
+278,KEN,Kenya,Stunting,Proportion,Upper Uncertainty Bound,40.8,40.6,40.3,39.9,39.4,38.8,38.0,36.9,35.6,34.1,32.6,31.1,29.8,28.7,27.9,27.2,26.6,26.0,25.4,24.7,24.0
+279,KIR,Kiribati,Stunting,Proportion,Point Estimate,20.4,19.8,19.2,18.8,18.4,18.1,17.7,17.4,17.1,16.7,16.3,16.0,15.8,15.6,15.6,15.6,15.6,15.6,15.5,15.3,14.9
+280,KIR,Kiribati,Stunting,Proportion,Lower Uncertainty Bound,11.5,11.4,11.3,11.2,11.2,11.2,11.3,11.3,11.4,11.5,11.5,11.7,11.9,12.2,12.6,13.0,13.3,13.5,13.4,13.1,12.7
+281,KIR,Kiribati,Stunting,Proportion,Upper Uncertainty Bound,33.4,32.1,30.8,29.7,28.7,27.8,26.8,25.8,24.8,23.7,22.6,21.5,20.6,19.8,19.2,18.7,18.3,18.0,17.8,17.6,17.5
+282,KWT,Kuwait,Stunting,Proportion,Point Estimate,4.2,4.1,4.1,4.1,4.2,4.2,4.2,4.3,4.4,4.4,4.5,4.7,4.8,4.9,5.1,5.3,5.4,5.6,5.7,5.8,6.0
+283,KWT,Kuwait,Stunting,Proportion,Lower Uncertainty Bound,3.9,3.8,3.9,3.9,3.9,3.9,4.0,4.0,4.1,4.2,4.3,4.4,4.6,4.7,4.8,4.9,5.0,5.1,5.1,5.2,5.2
+284,KWT,Kuwait,Stunting,Proportion,Upper Uncertainty Bound,4.6,4.5,4.4,4.4,4.4,4.4,4.5,4.5,4.6,4.7,4.8,4.9,5.0,5.2,5.4,5.6,5.9,6.1,6.4,6.6,6.8
+285,KGZ,Kyrgyzstan,Stunting,Proportion,Point Estimate,29.9,28.6,27.2,25.9,24.5,23.1,21.9,20.7,19.6,18.6,17.7,16.8,16.0,15.2,14.4,13.6,13.0,12.4,12.1,11.7,11.4
+286,KGZ,Kyrgyzstan,Stunting,Proportion,Lower Uncertainty Bound,27.3,26.2,25.0,23.8,22.5,21.3,20.2,19.1,18.1,17.2,16.5,15.7,15.0,14.2,13.4,12.6,11.8,11.2,10.7,10.3,9.8
+287,KGZ,Kyrgyzstan,Stunting,Proportion,Upper Uncertainty Bound,32.7,31.1,29.6,28.1,26.5,25.1,23.8,22.5,21.2,20.0,19.1,18.0,17.1,16.3,15.5,14.7,14.2,13.8,13.6,13.4,13.2
+288,LAO,Lao People's Democratic Republic,Stunting,Proportion,Point Estimate,49.7,49.3,49.0,48.6,48.1,47.6,46.9,46.1,45.2,44.2,43.2,42.0,40.7,39.4,38.0,36.5,35.1,33.7,32.4,31.2,30.2
+289,LAO,Lao People's Democratic Republic,Stunting,Proportion,Lower Uncertainty Bound,46.9,46.6,46.3,45.9,45.4,44.8,44.1,43.4,42.5,41.7,40.7,39.7,38.6,37.3,35.9,34.3,32.7,31.0,29.5,28.0,26.7
+290,LAO,Lao People's Democratic Republic,Stunting,Proportion,Upper Uncertainty Bound,52.5,52.1,51.7,51.3,50.9,50.4,49.7,48.9,48.0,46.8,45.6,44.3,42.9,41.5,40.1,38.8,37.6,36.5,35.5,34.6,33.9
+294,LBN,Lebanon,Stunting,Proportion,Point Estimate,16.0,15.9,15.8,15.8,16.2,16.6,17.6,17.9,17.7,16.8,15.7,14.0,12.9,12.2,11.8,11.4,11.2,11.0,10.9,10.6,10.4
+295,LBN,Lebanon,Stunting,Proportion,Lower Uncertainty Bound,14.3,14.2,14.0,13.9,14.1,14.3,15.0,15.0,14.6,13.5,12.4,10.8,9.6,8.8,8.3,7.8,7.3,7.0,6.7,6.3,5.9
+296,LBN,Lebanon,Stunting,Proportion,Upper Uncertainty Bound,17.9,17.7,17.7,17.8,18.4,19.2,20.6,21.3,21.4,20.6,19.6,18.0,17.0,16.5,16.5,16.5,16.6,16.8,17.2,17.3,17.4
+297,LSO,Lesotho,Stunting,Proportion,Point Estimate,41.0,41.1,41.3,41.5,41.7,41.8,41.7,41.4,41.0,40.4,39.7,38.8,37.7,36.4,35.4,34.4,33.8,33.2,32.9,32.4,32.1
+298,LSO,Lesotho,Stunting,Proportion,Lower Uncertainty Bound,37.4,37.7,38.1,38.4,38.8,38.9,38.9,38.7,38.3,37.9,37.3,36.5,35.5,34.3,33.2,32.2,31.4,30.6,30.0,29.2,28.6
+299,LSO,Lesotho,Stunting,Proportion,Upper Uncertainty Bound,44.7,44.6,44.6,44.6,44.7,44.7,44.5,44.2,43.7,43.0,42.2,41.2,40.0,38.6,37.6,36.7,36.3,36.0,36.0,35.8,35.9
+300,LBR,Liberia,Stunting,Proportion,Point Estimate,45.1,44.1,43.2,42.8,42.1,41.4,40.7,39.9,38.9,38.1,37.3,36.5,35.6,34.6,34.3,33.3,32.3,31.3,30.3,28.8,28.0
+301,LBR,Liberia,Stunting,Proportion,Lower Uncertainty Bound,41.3,40.8,40.3,40.1,39.5,38.9,38.2,37.4,36.5,35.8,35.1,34.5,33.7,32.9,32.5,31.5,30.4,29.1,27.9,26.3,25.3
+302,LBR,Liberia,Stunting,Proportion,Upper Uncertainty Bound,48.8,47.4,46.2,45.5,44.7,44.0,43.2,42.3,41.3,40.4,39.5,38.5,37.5,36.5,36.1,35.2,34.3,33.5,32.7,31.5,30.9
+303,LBY,Libya,Stunting,Proportion,Point Estimate,20.5,20.6,21.1,21.6,22.1,22.6,23.2,23.7,24.5,25.3,26.2,28.1,29.3,30.7,32.8,34.8,36.4,38.3,40.1,41.5,43.5
+304,LBY,Libya,Stunting,Proportion,Lower Uncertainty Bound,18.1,18.3,18.7,19.1,19.6,20.1,20.7,21.3,22.0,22.9,23.9,25.6,26.7,27.9,29.6,31.0,32.1,33.3,34.4,35.2,36.5
+305,LBY,Libya,Stunting,Proportion,Upper Uncertainty Bound,23.1,23.2,23.7,24.2,24.8,25.3,25.9,26.4,27.1,27.9,28.7,30.6,32.0,33.7,36.1,38.7,40.9,43.5,46.0,48.1,50.8
+315,MDG,Madagascar,Stunting,Proportion,Point Estimate,55.2,54.7,54.3,53.7,53.0,52.2,51.5,50.7,50.1,49.6,49.1,48.5,47.9,47.1,46.2,45.3,44.4,43.4,42.4,41.3,40.2
+316,MDG,Madagascar,Stunting,Proportion,Lower Uncertainty Bound,52.7,52.2,51.7,51.1,50.4,49.6,48.8,48.1,47.5,47.1,46.7,46.2,45.6,44.8,43.8,42.7,41.5,40.3,38.9,37.4,36.0
+317,MDG,Madagascar,Stunting,Proportion,Upper Uncertainty Bound,57.8,57.2,56.8,56.2,55.5,54.9,54.1,53.4,52.7,52.1,51.5,50.9,50.2,49.4,48.6,47.9,47.3,46.6,46.0,45.2,44.4
+318,MWI,Malawi,Stunting,Proportion,Point Estimate,55.7,55.3,54.9,54.3,53.6,52.8,51.9,50.8,49.5,48.2,46.8,45.3,43.8,42.4,41.2,40.2,39.5,39.1,38.5,37.8,37.0
+319,MWI,Malawi,Stunting,Proportion,Lower Uncertainty Bound,53.8,53.5,53.1,52.6,51.8,51.0,50.0,48.9,47.6,46.4,45.1,43.6,42.3,41.0,39.9,38.8,38.0,37.6,36.7,35.7,34.7
+320,MWI,Malawi,Stunting,Proportion,Upper Uncertainty Bound,57.6,57.1,56.6,56.0,55.3,54.6,53.8,52.8,51.5,50.1,48.6,46.9,45.3,43.8,42.5,41.5,40.9,40.7,40.3,39.8,39.3
+321,MYS,Malaysia,Stunting,Proportion,Point Estimate,20.0,19.5,19.1,18.8,18.6,18.3,18.1,17.9,17.9,17.8,17.9,18.1,18.3,18.5,18.8,19.1,19.5,19.9,20.3,20.6,20.9
+322,MYS,Malaysia,Stunting,Proportion,Lower Uncertainty Bound,17.8,17.6,17.3,17.1,16.8,16.5,16.2,16.0,16.0,16.0,16.1,16.4,16.7,17.1,17.5,17.8,18.1,18.4,18.6,18.7,18.7
+323,MYS,Malaysia,Stunting,Proportion,Upper Uncertainty Bound,22.3,21.6,21.1,20.8,20.5,20.3,20.1,20.0,19.9,19.8,19.7,19.8,19.9,20.0,20.3,20.5,21.0,21.5,22.1,22.6,23.2
+324,MDV,Maldives,Stunting,Proportion,Point Estimate,33.6,32.3,30.7,28.8,26.8,24.9,23.1,21.5,20.1,19.1,18.3,17.7,17.2,16.9,16.6,16.2,15.8,15.5,15.1,14.6,14.2
+325,MDV,Maldives,Stunting,Proportion,Lower Uncertainty Bound,31.4,30.0,28.4,26.5,24.5,22.6,20.8,19.3,18.1,17.1,16.5,16.0,15.6,15.3,14.9,14.5,14.1,13.6,13.0,12.4,11.9
+326,MDV,Maldives,Stunting,Proportion,Upper Uncertainty Bound,35.9,34.6,33.1,31.3,29.3,27.4,25.6,23.9,22.4,21.2,20.3,19.5,19.0,18.6,18.3,18.0,17.8,17.6,17.4,17.1,16.9
+327,MLI,Mali,Stunting,Proportion,Point Estimate,40.0,39.4,38.6,37.9,37.1,36.3,35.4,34.6,33.7,32.9,32.2,31.5,30.9,30.4,29.8,29.1,28.4,27.7,27.0,26.3,25.7
+328,MLI,Mali,Stunting,Proportion,Lower Uncertainty Bound,37.5,37.0,36.4,35.7,35.0,34.2,33.4,32.5,31.8,31.1,30.5,29.9,29.5,29.1,28.5,27.9,27.2,26.4,25.6,24.7,23.9
+329,MLI,Mali,Stunting,Proportion,Upper Uncertainty Bound,42.5,41.8,40.9,40.1,39.3,38.4,37.6,36.7,35.7,34.8,34.0,33.1,32.4,31.7,31.0,30.3,29.7,29.1,28.5,28.0,27.5
+333,MHL,Marshall Islands,Stunting,Proportion,Point Estimate,38.2,37.4,36.5,36.3,36.4,35.7,36.3,37.1,37.6,37.8,37.6,36.8,36.2,35.8,35.2,35.0,34.8,34.3,33.5,32.8,32.2
+334,MHL,Marshall Islands,Stunting,Proportion,Lower Uncertainty Bound,24.4,24.2,24.0,24.3,24.9,24.8,25.8,27.1,28.1,29.0,29.6,29.6,29.8,30.2,30.4,30.8,31.0,30.6,29.7,28.7,27.7
+335,MHL,Marshall Islands,Stunting,Proportion,Upper Uncertainty Bound,54.2,52.7,51.2,50.3,49.7,48.3,48.3,48.5,48.2,47.6,46.5,44.7,43.1,41.7,40.4,39.5,38.8,38.1,37.5,37.1,37.0
+336,MRT,Mauritania,Stunting,Proportion,Point Estimate,40.4,38.6,36.8,35.1,33.6,32.3,31.0,30.0,29.2,28.5,27.9,27.4,27.0,26.7,26.3,26.0,25.7,25.5,25.1,24.7,24.2
+337,MRT,Mauritania,Stunting,Proportion,Lower Uncertainty Bound,37.9,36.3,34.7,33.1,31.6,30.3,29.1,28.2,27.4,26.9,26.4,26.0,25.6,25.2,24.8,24.3,23.9,23.4,22.8,22.1,21.4
+338,MRT,Mauritania,Stunting,Proportion,Upper Uncertainty Bound,42.9,41.0,39.1,37.3,35.7,34.3,33.0,32.0,31.0,30.3,29.6,28.9,28.5,28.1,27.9,27.7,27.7,27.7,27.6,27.4,27.2
+339,MUS,Mauritius,Stunting,Proportion,Point Estimate,12.7,12.2,11.6,11.0,10.5,10.1,9.7,9.6,9.4,9.2,9.2,9.1,9.0,8.9,8.9,8.9,8.9,8.9,8.8,8.8,8.7
+340,MUS,Mauritius,Stunting,Proportion,Lower Uncertainty Bound,9.8,9.1,8.4,7.6,7.0,6.5,6.1,5.9,5.6,5.5,5.4,5.2,5.1,5.0,5.0,4.9,4.8,4.7,4.6,4.5,4.3
+341,MUS,Mauritius,Stunting,Proportion,Upper Uncertainty Bound,16.2,16.1,15.9,15.7,15.4,15.3,15.2,15.2,15.2,15.2,15.2,15.2,15.2,15.3,15.4,15.6,15.9,16.1,16.3,16.5,16.6
+342,MEX,Mexico,Stunting,Proportion,Point Estimate,20.3,19.5,18.7,17.9,17.2,16.4,15.8,15.1,14.5,14.0,13.5,13.1,12.7,12.6,12.5,12.4,12.4,12.5,12.4,12.2,12.1
+343,MEX,Mexico,Stunting,Proportion,Lower Uncertainty Bound,18.7,17.9,17.1,16.3,15.6,14.9,14.2,13.7,13.1,12.7,12.3,12.0,11.8,11.7,11.6,11.6,11.5,11.5,11.3,11.0,10.8
+344,MEX,Mexico,Stunting,Proportion,Upper Uncertainty Bound,22.1,21.2,20.4,19.6,18.9,18.1,17.4,16.7,16.0,15.4,14.7,14.2,13.8,13.5,13.4,13.3,13.3,13.6,13.6,13.6,13.6
+351,MNG,Mongolia,Stunting,Proportion,Point Estimate,29.4,28.5,27.4,26.2,24.8,23.3,21.7,20.0,18.3,16.7,15.2,13.7,12.6,11.7,10.8,10.1,9.4,8.7,8.1,7.6,7.1
+352,MNG,Mongolia,Stunting,Proportion,Lower Uncertainty Bound,27.5,26.8,25.8,24.7,23.4,21.9,20.3,18.7,17.1,15.6,14.2,12.8,11.8,10.9,10.1,9.4,8.7,7.9,7.3,6.7,6.2
+353,MNG,Mongolia,Stunting,Proportion,Upper Uncertainty Bound,31.3,30.2,29.0,27.7,26.3,24.8,23.1,21.4,19.6,17.8,16.2,14.6,13.5,12.5,11.6,10.9,10.3,9.5,9.0,8.6,8.1
+354,MNE,Montenegro,Stunting,Proportion,Point Estimate,8.7,8.6,8.6,8.6,8.6,8.5,8.5,8.4,8.4,8.3,8.3,8.2,8.2,8.1,8.0,8.0,8.0,8.0,8.1,8.1,8.1
+355,MNE,Montenegro,Stunting,Proportion,Lower Uncertainty Bound,6.5,6.7,6.9,7.1,7.3,7.4,7.4,7.4,7.3,7.3,7.3,7.3,7.3,7.2,7.1,7.0,7.0,6.9,6.9,6.7,6.6
+356,MNE,Montenegro,Stunting,Proportion,Upper Uncertainty Bound,11.4,11.0,10.6,10.3,10.1,9.9,9.7,9.6,9.5,9.4,9.4,9.3,9.2,9.1,9.0,9.0,9.1,9.3,9.5,9.7,9.8
+360,MAR,Morocco,Stunting,Proportion,Point Estimate,25.2,24.0,23.0,21.9,21.1,20.3,19.6,19.0,18.5,17.9,17.4,16.9,16.4,16.0,15.5,15.1,14.7,14.2,13.8,13.4,12.9
+361,MAR,Morocco,Stunting,Proportion,Lower Uncertainty Bound,23.0,22.0,21.0,19.9,19.1,18.3,17.6,17.1,16.6,16.1,15.7,15.3,14.9,14.5,14.1,13.6,13.1,12.5,12.0,11.4,10.9
+362,MAR,Morocco,Stunting,Proportion,Upper Uncertainty Bound,27.4,26.2,25.1,24.0,23.2,22.5,21.8,21.2,20.5,19.9,19.2,18.6,18.0,17.5,17.1,16.7,16.4,16.1,15.9,15.6,15.4
+363,MOZ,Mozambique,Stunting,Proportion,Point Estimate,50.5,49.5,48.5,47.5,46.7,45.9,45.1,44.4,43.8,43.4,43.1,43.0,42.9,42.7,42.3,41.7,40.8,40.0,39.2,38.4,37.8
+364,MOZ,Mozambique,Stunting,Proportion,Lower Uncertainty Bound,48.4,47.4,46.3,45.3,44.4,43.5,42.7,42.0,41.5,41.1,40.9,40.8,40.6,40.2,39.5,38.5,37.2,35.8,34.5,33.4,32.3
+365,MOZ,Mozambique,Stunting,Proportion,Upper Uncertainty Bound,52.7,51.7,50.7,49.8,49.0,48.3,47.5,46.8,46.2,45.7,45.4,45.3,45.3,45.3,45.2,45.0,44.6,44.2,44.0,43.8,43.7
+366,MMR,Myanmar,Stunting,Proportion,Point Estimate,47.0,45.3,43.6,42.1,40.6,39.1,37.7,36.4,35.2,34.1,33.2,32.5,31.9,31.1,30.3,29.5,28.6,27.8,26.9,26.1,25.2
+367,MMR,Myanmar,Stunting,Proportion,Lower Uncertainty Bound,44.8,43.1,41.4,39.7,38.1,36.5,35.1,33.7,32.6,31.6,30.8,30.3,29.7,29.1,28.3,27.5,26.6,25.6,24.6,23.5,22.4
+368,MMR,Myanmar,Stunting,Proportion,Upper Uncertainty Bound,49.2,47.5,45.9,44.4,43.1,41.8,40.5,39.2,37.9,36.8,35.7,34.9,34.0,33.2,32.3,31.6,30.8,30.1,29.4,28.8,28.1
+369,NAM,Namibia,Stunting,Proportion,Point Estimate,30.3,30.2,30.0,29.6,29.1,28.6,28.2,27.7,27.2,26.6,25.9,24.9,24.1,23.3,22.5,21.7,20.8,20.1,19.5,18.9,18.4
+370,NAM,Namibia,Stunting,Proportion,Lower Uncertainty Bound,27.6,27.6,27.5,27.2,26.7,26.1,25.8,25.3,24.9,24.4,23.7,22.7,21.8,20.8,19.8,18.7,17.5,16.5,15.6,14.8,14.0
+371,NAM,Namibia,Stunting,Proportion,Upper Uncertainty Bound,33.2,32.9,32.6,32.2,31.7,31.1,30.8,30.2,29.6,29.0,28.2,27.3,26.6,26.0,25.4,25.0,24.6,24.3,24.1,23.9,23.8
+372,NRU,Nauru,Stunting,Proportion,Point Estimate,26.8,26.6,26.5,26.2,25.9,25.3,24.7,24.0,23.3,22.5,21.6,20.9,20.3,19.5,19.0,18.2,17.5,16.9,16.3,15.5,15.0
+373,NRU,Nauru,Stunting,Proportion,Lower Uncertainty Bound,20.1,20.7,21.3,21.7,22.0,21.9,21.6,21.1,20.4,19.5,18.4,17.4,16.5,15.4,14.5,13.5,12.5,11.6,10.8,9.9,9.3
+374,NRU,Nauru,Stunting,Proportion,Upper Uncertainty Bound,34.7,33.6,32.5,31.3,30.2,29.1,28.1,27.2,26.5,25.8,25.2,24.9,24.7,24.4,24.4,24.2,24.0,23.9,23.8,23.4,23.3
+375,NPL,Nepal,Stunting,Proportion,Point Estimate,57.9,56.2,54.4,52.7,51.1,49.5,48.0,46.6,45.3,44.1,42.8,41.6,40.3,39.1,37.8,36.4,35.0,33.8,32.5,31.4,30.4
+376,NPL,Nepal,Stunting,Proportion,Lower Uncertainty Bound,55.8,54.0,52.2,50.4,48.6,47.0,45.4,44.0,42.8,41.6,40.6,39.5,38.4,37.3,36.1,34.7,33.3,31.8,30.4,29.0,27.8
+377,NPL,Nepal,Stunting,Proportion,Upper Uncertainty Bound,60.0,58.3,56.6,55.0,53.5,52.0,50.6,49.2,47.9,46.5,45.1,43.7,42.3,40.9,39.5,38.1,36.8,35.7,34.7,33.8,33.0
+378,NLD,Netherlands,Stunting,Proportion,Point Estimate,1.3,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.6,1.6,1.6
+379,NLD,Netherlands,Stunting,Proportion,Lower Uncertainty Bound,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.1,1.1,1.1,1.0,1.0,1.0
+380,NLD,Netherlands,Stunting,Proportion,Upper Uncertainty Bound,1.6,1.6,1.6,1.6,1.7,1.7,1.7,1.7,1.7,1.7,1.7,1.8,1.8,1.9,2.0,2.0,2.1,2.2,2.3,2.4,2.6
+384,NIC,Nicaragua,Stunting,Proportion,Point Estimate,25.3,24.4,23.6,22.9,22.3,21.6,21.0,20.3,19.6,19.0,18.4,17.9,17.4,16.9,16.5,16.0,15.5,15.1,14.7,14.4,14.1
+385,NIC,Nicaragua,Stunting,Proportion,Lower Uncertainty Bound,23.6,22.8,22.1,21.4,20.8,20.1,19.4,18.7,18.1,17.5,16.8,16.2,15.5,14.8,14.1,13.4,12.6,12.0,11.4,10.8,10.4
+386,NIC,Nicaragua,Stunting,Proportion,Upper Uncertainty Bound,27.1,26.1,25.2,24.5,23.9,23.3,22.6,22.0,21.3,20.7,20.2,19.8,19.5,19.3,19.1,19.0,18.8,18.8,18.8,18.9,19.0
+387,NER,Niger,Stunting,Proportion,Point Estimate,52.1,52.0,51.9,51.6,51.3,51.0,50.7,50.3,49.9,49.5,49.2,48.7,48.3,47.7,47.4,47.2,47.1,47.0,46.9,46.8,46.7
+388,NER,Niger,Stunting,Proportion,Lower Uncertainty Bound,49.7,49.9,49.9,49.8,49.6,49.4,49.1,48.7,48.4,48.0,47.8,47.3,46.9,46.3,46.0,45.6,45.3,45.0,44.6,44.3,44.0
+389,NER,Niger,Stunting,Proportion,Upper Uncertainty Bound,54.4,54.2,53.8,53.4,53.0,52.6,52.3,51.9,51.5,51.0,50.7,50.2,49.7,49.2,48.9,48.9,48.9,49.0,49.1,49.3,49.5
+390,NGA,Nigeria,Stunting,Proportion,Point Estimate,42.3,42.0,41.7,41.4,41.1,40.7,40.3,39.9,39.6,39.2,38.8,38.4,38.0,37.6,37.3,37.0,36.7,36.5,36.1,35.7,35.3
+391,NGA,Nigeria,Stunting,Proportion,Lower Uncertainty Bound,38.9,38.8,38.6,38.4,38.1,37.8,37.5,37.1,36.8,36.6,36.3,36.1,36.0,35.8,35.7,35.5,35.2,34.9,34.4,33.7,33.1
+392,NGA,Nigeria,Stunting,Proportion,Upper Uncertainty Bound,45.8,45.4,44.9,44.5,44.1,43.6,43.3,42.8,42.4,41.8,41.2,40.6,40.0,39.5,39.0,38.6,38.3,38.1,38.0,37.8,37.7
+396,MKD,North Macedonia,Stunting,Proportion,Point Estimate,8.8,8.8,8.8,8.9,8.8,8.7,8.4,8.0,7.6,7.1,6.6,6.2,5.8,5.5,5.2,5.0,4.8,4.6,4.4,4.2,4.1
+397,MKD,North Macedonia,Stunting,Proportion,Lower Uncertainty Bound,7.7,7.8,7.9,7.9,7.9,7.8,7.5,7.1,6.7,6.3,5.9,5.5,5.2,4.9,4.7,4.4,4.2,4.0,3.8,3.6,3.4
+398,MKD,North Macedonia,Stunting,Proportion,Upper Uncertainty Bound,10.1,9.9,9.9,9.8,9.8,9.7,9.4,9.0,8.5,7.9,7.4,6.9,6.5,6.2,5.9,5.6,5.4,5.2,5.1,5.0,4.9
+402,OMN,Oman,Stunting,Proportion,Point Estimate,15.1,14.4,13.7,13.1,12.6,12.3,12.0,11.7,11.5,11.4,11.3,11.3,11.3,11.4,11.5,11.7,11.8,11.9,12.0,12.1,12.2
+403,OMN,Oman,Stunting,Proportion,Lower Uncertainty Bound,13.6,12.9,12.3,11.7,11.2,10.8,10.6,10.3,10.2,10.2,10.2,10.2,10.3,10.4,10.5,10.6,10.6,10.6,10.5,10.4,10.3
+404,OMN,Oman,Stunting,Proportion,Upper Uncertainty Bound,16.8,16.0,15.3,14.7,14.2,13.9,13.6,13.3,13.0,12.8,12.6,12.5,12.4,12.4,12.6,12.8,13.1,13.4,13.7,14.0,14.3
+405,PAK,Pakistan,Stunting,Proportion,Point Estimate,42.1,42.4,42.8,43.2,43.6,43.8,44.1,44.2,44.4,44.3,44.2,43.8,43.4,42.8,42.1,41.3,40.4,39.4,38.5,37.5,36.7
+406,PAK,Pakistan,Stunting,Proportion,Lower Uncertainty Bound,38.7,39.1,39.6,40.0,40.4,40.6,40.8,41.0,41.2,41.3,41.3,41.2,40.9,40.4,39.8,38.9,37.8,36.5,35.2,33.9,32.7
+407,PAK,Pakistan,Stunting,Proportion,Upper Uncertainty Bound,45.6,45.8,46.1,46.4,46.8,47.1,47.4,47.5,47.6,47.4,47.0,46.5,45.8,45.1,44.4,43.8,43.1,42.4,41.9,41.3,40.8
+411,PAN,Panama,Stunting,Proportion,Point Estimate,18.5,18.7,19.1,19.7,20.2,20.7,21.1,21.3,21.2,21.1,20.9,20.5,20.0,19.4,18.7,18.1,17.3,16.7,16.0,15.4,14.7
+412,PAN,Panama,Stunting,Proportion,Lower Uncertainty Bound,16.8,17.1,17.5,18.0,18.5,18.9,19.1,19.3,19.2,19.1,18.9,18.6,18.1,17.6,16.9,16.3,15.6,14.9,14.2,13.4,12.7
+413,PAN,Panama,Stunting,Proportion,Upper Uncertainty Bound,20.3,20.5,20.9,21.4,22.1,22.7,23.2,23.5,23.4,23.3,23.0,22.5,21.9,21.3,20.6,20.0,19.3,18.7,18.1,17.6,17.0
+414,PNG,Papua New Guinea,Stunting,Proportion,Point Estimate,41.9,42.1,42.4,42.9,43.4,44.0,44.4,45.0,45.6,46.1,46.6,46.9,47.2,47.2,47.3,47.5,47.6,47.9,48.1,48.3,48.4
+415,PNG,Papua New Guinea,Stunting,Proportion,Lower Uncertainty Bound,34.8,35.8,37.0,38.3,39.5,40.5,41.3,42.0,42.6,43.0,43.1,43.0,42.7,42.1,41.5,40.8,40.1,39.5,38.9,38.3,37.6
+416,PNG,Papua New Guinea,Stunting,Proportion,Upper Uncertainty Bound,49.3,48.6,48.0,47.6,47.5,47.5,47.6,48.0,48.7,49.4,50.1,50.9,51.7,52.4,53.3,54.2,55.2,56.4,57.5,58.5,59.4
+417,PRY,Paraguay,Stunting,Proportion,Point Estimate,18.3,18.1,17.9,17.6,17.2,16.5,15.6,14.6,13.6,12.5,11.5,10.5,9.6,8.7,7.9,7.3,6.6,6.0,5.5,5.0,4.6
+418,PRY,Paraguay,Stunting,Proportion,Lower Uncertainty Bound,15.1,15.2,15.3,15.3,15.1,14.6,13.9,13.0,12.1,11.2,10.3,9.5,8.7,7.9,7.1,6.5,5.8,5.1,4.6,4.2,3.7
+419,PRY,Paraguay,Stunting,Proportion,Upper Uncertainty Bound,22.1,21.5,20.9,20.3,19.5,18.6,17.6,16.4,15.1,13.9,12.7,11.6,10.5,9.6,8.8,8.2,7.5,6.9,6.5,6.1,5.7
+420,PER,Peru,Stunting,Proportion,Point Estimate,31.7,31.1,30.3,29.5,28.6,28.0,27.0,26.0,24.9,23.5,21.8,20.3,18.8,17.4,16.1,15.0,13.9,13.0,12.1,11.4,10.8
+421,PER,Peru,Stunting,Proportion,Lower Uncertainty Bound,29.6,29.2,28.6,27.9,27.1,26.5,25.6,24.7,23.6,22.4,20.8,19.4,18.1,16.7,15.5,14.3,13.2,12.2,11.3,10.6,9.9
+422,PER,Peru,Stunting,Proportion,Upper Uncertainty Bound,33.8,33.0,32.1,31.2,30.2,29.5,28.5,27.4,26.2,24.7,22.9,21.2,19.7,18.2,16.8,15.6,14.6,13.7,13.0,12.3,11.8
+423,PHL,Philippines,Stunting,Proportion,Point Estimate,35.7,35.3,35.0,34.6,34.3,34.0,33.7,33.4,33.1,32.9,32.7,32.4,32.2,31.8,31.3,31.1,30.5,29.9,29.9,29.4,28.7
+424,PHL,Philippines,Stunting,Proportion,Lower Uncertainty Bound,33.5,33.1,32.8,32.5,32.2,31.9,31.6,31.3,31.1,31.0,30.9,30.7,30.6,30.2,29.7,29.3,28.5,27.7,27.4,26.6,25.7
+425,PHL,Philippines,Stunting,Proportion,Upper Uncertainty Bound,38.1,37.6,37.2,36.8,36.5,36.2,35.9,35.6,35.2,34.9,34.6,34.2,33.8,33.4,33.0,32.9,32.5,32.2,32.5,32.4,31.9
+426,POL,Poland,Stunting,Proportion,Point Estimate,3.3,3.2,3.0,2.9,2.8,2.7,2.6,2.6,2.5,2.5,2.4,2.4,2.3,2.3,2.3,2.3,2.3,2.3,2.3,2.3,2.3
+427,POL,Poland,Stunting,Proportion,Lower Uncertainty Bound,2.2,2.2,2.2,2.1,2.1,2.2,2.2,2.2,2.2,2.2,2.2,2.1,2.1,2.0,2.0,1.9,1.9,1.8,1.8,1.7,1.7
+428,POL,Poland,Stunting,Proportion,Upper Uncertainty Bound,5.0,4.6,4.2,3.9,3.6,3.4,3.2,3.1,2.9,2.8,2.7,2.6,2.6,2.6,2.6,2.7,2.8,2.9,3.0,3.1,3.2
+429,PRT,Portugal,Stunting,Proportion,Point Estimate,4.9,4.8,4.8,4.7,4.6,4.5,4.4,4.3,4.2,4.1,4.0,3.9,3.8,3.7,3.6,3.6,3.5,3.4,3.4,3.3,3.3
+430,PRT,Portugal,Stunting,Proportion,Lower Uncertainty Bound,2.7,2.7,2.7,2.8,2.8,2.8,2.8,2.8,2.8,2.8,2.8,2.9,2.9,2.9,2.9,2.9,2.9,2.8,2.7,2.6,2.5
+431,PRT,Portugal,Stunting,Proportion,Upper Uncertainty Bound,8.8,8.5,8.2,7.9,7.6,7.2,6.8,6.5,6.2,5.8,5.5,5.2,5.0,4.7,4.5,4.4,4.3,4.2,4.2,4.2,4.2
+432,QAT,Qatar,Stunting,Proportion,Point Estimate,9.4,9.0,8.6,8.2,7.8,7.3,7.0,6.8,6.6,6.4,6.2,6.1,6.0,5.9,5.8,5.6,5.4,5.1,4.9,4.7,4.6
+433,QAT,Qatar,Stunting,Proportion,Lower Uncertainty Bound,7.2,6.6,6.1,5.6,5.1,4.7,4.4,4.1,3.9,3.7,3.6,3.5,3.4,3.3,3.2,3.0,2.9,2.7,2.5,2.4,2.2
+434,QAT,Qatar,Stunting,Proportion,Upper Uncertainty Bound,12.3,12.1,12.0,11.8,11.6,11.3,11.2,11.0,10.9,10.7,10.6,10.5,10.5,10.4,10.3,10.2,10.0,9.7,9.5,9.3,9.2
+435,KOR,Republic of Korea,Stunting,Proportion,Point Estimate,2.9,2.9,2.8,2.7,2.7,2.6,2.5,2.4,2.4,2.3,2.3,2.3,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.2
+436,KOR,Republic of Korea,Stunting,Proportion,Lower Uncertainty Bound,2.2,2.3,2.3,2.3,2.2,2.2,2.1,2.0,2.0,1.9,1.9,1.8,1.8,1.7,1.6,1.6,1.5,1.5,1.4,1.4,1.3
+437,KOR,Republic of Korea,Stunting,Proportion,Upper Uncertainty Bound,3.8,3.6,3.5,3.3,3.1,3.0,2.9,2.8,2.8,2.8,2.8,2.8,2.8,2.9,2.9,3.0,3.1,3.2,3.3,3.4,3.5
+438,MDA,Republic of Moldova,Stunting,Proportion,Point Estimate,12.3,11.9,11.4,10.9,10.4,9.9,9.4,8.9,8.5,8.1,7.8,7.4,7.1,6.7,6.5,6.2,5.9,5.6,5.4,5.1,4.9
+439,MDA,Republic of Moldova,Stunting,Proportion,Lower Uncertainty Bound,9.4,9.4,9.3,9.2,8.9,8.6,8.2,7.9,7.5,7.2,6.9,6.5,6.1,5.8,5.4,5.0,4.7,4.3,4.0,3.7,3.4
+440,MDA,Republic of Moldova,Stunting,Proportion,Upper Uncertainty Bound,15.9,14.9,13.9,13.0,12.1,11.3,10.6,10.1,9.5,9.1,8.7,8.4,8.1,7.9,7.7,7.6,7.4,7.3,7.1,7.0,6.8
+441,ROU,Romania,Stunting,Proportion,Point Estimate,13.7,13.6,13.4,13.3,12.9,12.7,12.4,12.1,11.8,11.5,11.1,10.9,10.6,10.4,10.3,10.2,10.1,10.1,10.0,9.9,9.7
+442,ROU,Romania,Stunting,Proportion,Lower Uncertainty Bound,12.7,12.6,12.2,11.8,11.2,10.7,10.1,9.6,9.2,8.7,8.2,7.9,7.5,7.1,6.9,6.6,6.4,6.1,5.9,5.6,5.4
+443,ROU,Romania,Stunting,Proportion,Upper Uncertainty Bound,14.7,14.6,14.7,14.8,14.9,15.0,15.1,15.1,15.1,15.0,14.8,14.9,14.9,14.9,15.2,15.4,15.8,16.2,16.5,16.7,16.9
+447,RWA,Rwanda,Stunting,Proportion,Point Estimate,49.1,49.5,49.7,50.0,50.1,50.1,49.7,48.8,47.5,46.0,44.1,42.2,40.5,39.0,37.8,36.7,35.9,35.1,34.3,33.4,32.6
+448,RWA,Rwanda,Stunting,Proportion,Lower Uncertainty Bound,46.7,47.1,47.5,47.8,48.0,47.9,47.5,46.7,45.4,44.0,42.2,40.5,38.9,37.5,36.2,35.2,34.3,33.3,32.3,31.3,30.2
+449,RWA,Rwanda,Stunting,Proportion,Upper Uncertainty Bound,51.6,51.8,52.0,52.2,52.3,52.3,51.9,51.0,49.6,48.0,46.0,44.0,42.2,40.6,39.3,38.3,37.5,36.9,36.3,35.6,35.0
+453,LCA,Saint Lucia,Stunting,Proportion,Point Estimate,3.8,3.7,3.5,3.4,3.3,3.1,3.0,3.0,2.9,2.8,2.8,2.7,2.7,2.7,2.7,2.6,2.6,2.7,2.7,2.7,2.8
+454,LCA,Saint Lucia,Stunting,Proportion,Lower Uncertainty Bound,2.3,2.3,2.3,2.3,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.1,2.1,2.1,2.0,2.0,1.9,1.9,1.8
+455,LCA,Saint Lucia,Stunting,Proportion,Upper Uncertainty Bound,6.3,5.9,5.5,5.1,4.8,4.4,4.2,4.0,3.8,3.7,3.5,3.4,3.3,3.3,3.3,3.4,3.5,3.6,3.8,4.0,4.1
+459,WSM,Samoa,Stunting,Proportion,Point Estimate,6.1,5.9,5.7,5.5,5.5,5.4,5.4,5.5,5.6,5.6,5.6,5.7,5.7,5.6,5.7,5.8,5.9,6.1,6.4,6.6,6.8
+460,WSM,Samoa,Stunting,Proportion,Lower Uncertainty Bound,5.3,5.0,4.8,4.7,4.6,4.5,4.5,4.5,4.6,4.6,4.7,4.8,4.9,4.9,5.0,5.1,5.3,5.4,5.7,5.8,5.8
+461,WSM,Samoa,Stunting,Proportion,Upper Uncertainty Bound,7.1,6.8,6.6,6.5,6.5,6.6,6.6,6.7,6.8,6.8,6.8,6.7,6.6,6.4,6.4,6.5,6.6,6.8,7.3,7.6,7.9
+465,STP,Sao Tome and Principe,Stunting,Proportion,Point Estimate,31.1,30.0,28.6,27.1,25.8,24.5,23.4,22.5,21.7,20.9,20.1,19.3,18.3,17.4,16.4,15.6,14.7,13.8,13.1,12.4,11.8
+466,STP,Sao Tome and Principe,Stunting,Proportion,Lower Uncertainty Bound,20.8,20.5,20.0,19.4,18.8,18.2,17.7,17.3,17.0,16.8,16.5,16.1,15.6,15.1,14.5,13.9,13.2,12.5,11.7,10.9,10.2
+467,STP,Sao Tome and Principe,Stunting,Proportion,Upper Uncertainty Bound,43.7,41.5,39.1,36.6,34.3,32.1,30.2,28.6,27.2,25.8,24.4,22.9,21.4,19.9,18.5,17.3,16.2,15.3,14.6,14.0,13.6
+468,SAU,Saudi Arabia,Stunting,Proportion,Point Estimate,13.3,12.3,11.4,10.5,9.6,8.9,8.2,7.6,7.1,6.6,6.2,5.8,5.5,5.2,4.9,4.7,4.5,4.4,4.2,4.1,3.9
+469,SAU,Saudi Arabia,Stunting,Proportion,Lower Uncertainty Bound,11.7,10.8,9.9,9.1,8.3,7.5,6.8,6.2,5.7,5.2,4.8,4.4,4.0,3.7,3.4,3.1,2.9,2.7,2.5,2.3,2.2
+470,SAU,Saudi Arabia,Stunting,Proportion,Upper Uncertainty Bound,15.2,14.0,13.0,12.1,11.2,10.5,9.8,9.3,8.8,8.4,8.0,7.7,7.5,7.3,7.2,7.1,7.1,7.0,7.0,7.0,7.0
+471,SEN,Senegal,Stunting,Proportion,Point Estimate,25.4,24.6,23.8,23.1,22.5,21.9,21.3,20.8,20.5,20.1,19.9,19.8,19.8,19.8,19.7,19.5,19.2,18.7,18.3,17.8,17.2
+472,SEN,Senegal,Stunting,Proportion,Lower Uncertainty Bound,23.6,22.9,22.2,21.5,20.9,20.3,19.8,19.3,19.0,18.7,18.6,18.7,18.8,18.9,18.9,18.7,18.3,17.8,17.3,16.6,16.0
+473,SEN,Senegal,Stunting,Proportion,Upper Uncertainty Bound,27.3,26.4,25.5,24.8,24.1,23.5,23.0,22.4,22.0,21.5,21.2,21.1,20.9,20.8,20.6,20.4,20.0,19.7,19.4,19.0,18.6
+474,SRB,Serbia,Stunting,Proportion,Point Estimate,9.7,9.5,9.2,9.0,8.5,8.1,7.8,7.5,7.1,6.7,6.5,6.3,6.2,6.1,6.0,6.0,5.9,5.8,5.7,5.5,5.3
+475,SRB,Serbia,Stunting,Proportion,Lower Uncertainty Bound,7.4,7.5,7.5,7.5,7.4,7.1,7.0,6.7,6.4,6.1,5.9,5.7,5.6,5.6,5.5,5.4,5.3,5.2,5.0,4.8,4.5
+476,SRB,Serbia,Stunting,Proportion,Upper Uncertainty Bound,12.6,12.0,11.3,10.6,9.9,9.2,8.8,8.3,7.9,7.4,7.2,6.9,6.8,6.7,6.6,6.6,6.6,6.5,6.4,6.3,6.2
+477,SYC,Seychelles,Stunting,Proportion,Point Estimate,10.9,10.4,9.8,9.4,9.1,8.8,8.6,8.4,8.3,8.2,8.1,8.1,8.0,8.0,8.0,7.9,7.8,7.8,7.6,7.5,7.4
+478,SYC,Seychelles,Stunting,Proportion,Lower Uncertainty Bound,6.8,6.7,6.6,6.5,6.5,6.5,6.5,6.5,6.6,6.7,6.8,6.8,6.8,6.8,6.7,6.5,6.2,5.9,5.6,5.4,5.1
+479,SYC,Seychelles,Stunting,Proportion,Upper Uncertainty Bound,16.9,15.7,14.5,13.4,12.6,11.9,11.3,10.7,10.3,10.0,9.7,9.5,9.4,9.4,9.5,9.7,9.9,10.1,10.2,10.4,10.6
+480,SLE,Sierra Leone,Stunting,Proportion,Point Estimate,38.7,39.0,39.1,39.2,39.2,39.2,39.2,39.1,38.8,38.2,37.4,36.4,35.4,34.3,33.4,32.6,31.7,30.6,28.8,27.7,26.8
+481,SLE,Sierra Leone,Stunting,Proportion,Lower Uncertainty Bound,35.6,36.1,36.5,36.7,36.7,36.7,36.6,36.5,36.2,35.7,35.1,34.3,33.4,32.5,31.7,31.0,30.0,28.9,27.0,25.7,24.6
+482,SLE,Sierra Leone,Stunting,Proportion,Upper Uncertainty Bound,42.0,42.0,41.9,41.7,41.7,41.7,41.8,41.7,41.4,40.8,39.8,38.7,37.4,36.2,35.1,34.3,33.4,32.4,30.8,29.9,29.1
+483,SGP,Singapore,Stunting,Proportion,Point Estimate,4.4,4.3,4.2,4.1,4.0,3.9,3.8,3.7,3.5,3.4,3.3,3.2,3.2,3.1,3.1,3.0,3.0,2.9,2.9,2.9,2.8
+484,SGP,Singapore,Stunting,Proportion,Lower Uncertainty Bound,3.7,3.5,3.4,3.2,3.1,2.9,2.7,2.6,2.4,2.3,2.2,2.1,2.0,1.9,1.8,1.8,1.7,1.6,1.6,1.5,1.5
+485,SGP,Singapore,Stunting,Proportion,Upper Uncertainty Bound,5.3,5.2,5.1,5.2,5.2,5.3,5.3,5.2,5.2,5.1,5.1,5.1,5.1,5.1,5.1,5.1,5.2,5.2,5.3,5.4,5.5
+492,SLB,Solomon Islands,Stunting,Proportion,Point Estimate,34.0,33.9,34.0,34.1,34.2,34.2,34.1,33.9,33.5,33.3,33.0,32.5,31.9,31.4,30.9,30.5,30.2,30.0,29.7,29.5,29.3
+493,SLB,Solomon Islands,Stunting,Proportion,Lower Uncertainty Bound,26.3,27.1,27.9,28.8,29.6,30.1,30.4,30.5,30.4,30.4,30.2,29.8,29.3,28.7,28.1,27.4,26.8,26.2,25.5,24.9,24.3
+494,SLB,Solomon Islands,Stunting,Proportion,Upper Uncertainty Bound,42.6,41.5,40.6,39.8,39.2,38.6,38.0,37.5,36.8,36.4,35.9,35.3,34.7,34.2,34.0,33.9,33.9,34.1,34.3,34.6,34.9
+495,SOM,Somalia,Stunting,Proportion,Point Estimate,31.9,32.0,32.2,32.4,32.5,32.6,32.6,32.5,32.4,32.1,31.9,31.5,31.1,30.7,30.2,29.7,29.3,28.8,28.3,27.9,27.4
+496,SOM,Somalia,Stunting,Proportion,Lower Uncertainty Bound,28.9,29.4,29.7,30.0,30.2,30.3,30.2,30.1,29.8,29.4,28.8,28.0,27.1,26.1,25.0,23.9,22.8,21.8,20.7,19.8,18.9
+497,SOM,Somalia,Stunting,Proportion,Upper Uncertainty Bound,35.0,34.9,34.8,34.9,35.0,35.0,35.1,35.1,35.0,35.0,35.1,35.2,35.4,35.6,36.0,36.3,36.6,37.0,37.3,37.7,38.0
+498,ZAF,South Africa,Stunting,Proportion,Point Estimate,28.1,28.0,28.0,28.0,27.9,27.6,27.0,26.2,25.4,24.7,24.1,23.8,23.6,23.4,23.3,23.1,23.0,22.9,23.0,23.1,23.2
+499,ZAF,South Africa,Stunting,Proportion,Lower Uncertainty Bound,25.7,25.5,25.5,25.4,25.3,24.9,24.3,23.6,23.0,22.4,22.0,21.9,21.9,21.9,21.8,21.6,21.4,21.1,20.9,20.7,20.5
+500,ZAF,South Africa,Stunting,Proportion,Upper Uncertainty Bound,30.6,30.5,30.6,30.6,30.6,30.4,29.8,29.0,28.0,27.1,26.3,25.8,25.4,25.1,24.8,24.7,24.7,24.8,25.2,25.6,26.0
+501,SSD,South Sudan,Stunting,Proportion,Point Estimate,38.9,38.2,37.6,36.9,36.2,35.6,35.0,34.4,33.9,33.3,32.8,32.4,32.1,31.8,31.6,31.4,31.3,31.2,31.0,30.8,30.6
+502,SSD,South Sudan,Stunting,Proportion,Lower Uncertainty Bound,31.2,31.5,31.8,32.0,32.1,32.1,31.9,31.7,31.2,30.7,29.9,29.1,28.4,27.6,26.7,25.9,25.1,24.3,23.5,22.7,21.9
+503,SSD,South Sudan,Stunting,Proportion,Upper Uncertainty Bound,47.2,45.5,43.7,42.1,40.6,39.3,38.1,37.2,36.6,36.1,35.8,35.8,36.0,36.4,36.9,37.6,38.3,39.0,39.7,40.3,40.8
+507,LKA,Sri Lanka,Stunting,Proportion,Point Estimate,20.6,20.1,19.6,19.1,18.7,18.3,17.9,17.6,17.5,17.3,17.2,17.0,16.8,16.6,16.5,16.3,16.3,16.2,16.2,16.1,16.0
+508,LKA,Sri Lanka,Stunting,Proportion,Lower Uncertainty Bound,18.9,18.4,18.0,17.6,17.2,16.8,16.5,16.2,16.1,16.0,16.0,15.8,15.6,15.4,15.1,14.8,14.5,14.2,14.0,13.6,13.3
+509,LKA,Sri Lanka,Stunting,Proportion,Upper Uncertainty Bound,22.4,21.8,21.3,20.7,20.3,19.8,19.5,19.1,18.9,18.7,18.5,18.2,18.0,17.9,17.9,18.0,18.2,18.5,18.7,18.9,19.1
+510,PSE,State of Palestine,Stunting,Proportion,Point Estimate,9.9,10.1,10.4,10.7,10.9,11.0,11.2,11.2,11.3,11.3,11.1,10.7,10.3,9.8,9.3,9.0,8.6,8.3,8.1,7.9,7.8
+511,PSE,State of Palestine,Stunting,Proportion,Lower Uncertainty Bound,9.1,9.4,9.6,9.9,10.1,10.2,10.3,10.3,10.4,10.4,10.2,9.9,9.6,9.1,8.6,8.3,7.9,7.5,7.3,7.0,6.8
+512,PSE,State of Palestine,Stunting,Proportion,Upper Uncertainty Bound,10.8,11.0,11.3,11.5,11.8,11.9,12.1,12.2,12.3,12.2,12.0,11.6,11.2,10.6,10.1,9.8,9.5,9.2,9.0,8.9,8.8
+513,SDN,Sudan,Stunting,Proportion,Point Estimate,40.8,40.3,39.8,39.4,39.0,38.6,38.2,37.8,37.5,37.1,36.7,36.3,36.0,35.8,35.5,35.3,35.0,34.7,34.4,34.1,33.7
+514,SDN,Sudan,Stunting,Proportion,Lower Uncertainty Bound,33.1,33.5,33.9,34.4,34.7,34.9,35.0,35.0,34.9,34.7,34.4,34.0,33.6,33.1,32.5,31.8,31.0,30.2,29.4,28.5,27.7
+515,SDN,Sudan,Stunting,Proportion,Upper Uncertainty Bound,49.0,47.5,46.0,44.6,43.4,42.3,41.5,40.8,40.1,39.6,39.1,38.7,38.5,38.6,38.7,39.0,39.3,39.5,39.8,40.1,40.3
+516,SUR,Suriname,Stunting,Proportion,Point Estimate,13.9,13.3,12.7,12.0,11.4,10.9,10.5,10.1,9.8,9.4,9.1,8.8,8.7,8.6,8.6,8.5,8.5,8.4,8.3,8.2,8.0
+517,SUR,Suriname,Stunting,Proportion,Lower Uncertainty Bound,12.2,11.8,11.4,10.9,10.3,9.8,9.5,9.1,8.8,8.5,8.2,8.0,7.9,7.8,7.8,7.6,7.6,7.4,7.2,7.0,6.8
+518,SUR,Suriname,Stunting,Proportion,Upper Uncertainty Bound,15.9,15.0,14.1,13.3,12.6,12.0,11.6,11.2,10.8,10.4,10.1,9.7,9.6,9.5,9.5,9.5,9.6,9.6,9.6,9.6,9.5
+525,SYR,Syrian Arab Republic,Stunting,Proportion,Point Estimate,28.1,28.4,28.7,29.0,29.0,28.8,28.4,28.1,27.6,27.2,26.9,26.8,27.6,28.5,29.5,30.5,31.2,31.1,30.9,30.3,29.6
+526,SYR,Syrian Arab Republic,Stunting,Proportion,Lower Uncertainty Bound,26.3,26.6,26.9,27.1,27.1,26.8,26.4,26.0,25.5,24.9,24.3,24.0,24.3,24.5,24.9,25.2,25.1,24.4,23.5,22.4,21.3
+527,SYR,Syrian Arab Republic,Stunting,Proportion,Upper Uncertainty Bound,30.0,30.3,30.6,30.9,31.0,30.8,30.6,30.2,29.9,29.7,29.5,29.9,31.2,32.7,34.6,36.5,38.1,38.8,39.3,39.5,39.4
+528,TJK,Tajikistan,Stunting,Proportion,Point Estimate,41.6,41.2,40.6,39.5,38.3,36.9,35.4,33.9,32.4,30.9,29.5,28.1,26.5,24.8,23.0,21.2,19.6,18.2,17.0,16.0,15.3
+529,TJK,Tajikistan,Stunting,Proportion,Lower Uncertainty Bound,39.6,39.5,39.0,38.0,36.7,35.3,33.7,32.1,30.6,29.3,27.9,26.6,25.1,23.4,21.6,19.8,18.1,16.5,15.2,14.2,13.3
+530,TJK,Tajikistan,Stunting,Proportion,Upper Uncertainty Bound,43.6,42.9,42.1,41.1,39.9,38.6,37.1,35.7,34.1,32.7,31.2,29.6,28.0,26.3,24.5,22.8,21.3,19.9,18.9,18.0,17.4
+531,THA,Thailand,Stunting,Proportion,Point Estimate,16.9,16.7,16.6,16.5,16.5,16.4,16.2,16.0,15.7,15.3,14.9,14.4,13.9,13.5,13.1,12.9,12.8,12.7,12.6,12.4,12.3
+532,THA,Thailand,Stunting,Proportion,Lower Uncertainty Bound,15.0,14.9,14.8,14.8,14.7,14.7,14.5,14.3,14.1,13.9,13.5,13.1,12.7,12.4,12.2,12.0,11.8,11.6,11.4,11.1,10.8
+533,THA,Thailand,Stunting,Proportion,Upper Uncertainty Bound,18.9,18.7,18.6,18.4,18.3,18.2,18.0,17.7,17.3,16.9,16.3,15.7,15.1,14.6,14.2,14.0,13.9,13.9,13.9,13.9,13.9
+534,TLS,Timor-Leste,Stunting,Proportion,Point Estimate,54.8,55.5,56.2,56.9,57.2,57.1,56.6,56.1,55.5,54.9,54.4,53.7,52.8,52.1,51.5,50.9,50.3,49.9,49.5,49.1,48.8
+535,TLS,Timor-Leste,Stunting,Proportion,Lower Uncertainty Bound,50.6,52.0,53.3,54.4,54.9,54.9,54.4,53.9,53.2,52.6,52.0,51.1,50.0,48.8,47.7,46.4,45.2,44.0,42.9,41.8,40.9
+536,TLS,Timor-Leste,Stunting,Proportion,Upper Uncertainty Bound,58.9,58.9,59.0,59.3,59.4,59.2,58.8,58.4,57.8,57.2,56.7,56.2,55.7,55.4,55.3,55.3,55.5,55.7,56.0,56.3,56.7
+537,TGO,Togo,Stunting,Proportion,Point Estimate,35.2,34.7,34.1,33.4,32.6,32.0,31.2,30.5,29.9,29.3,28.6,27.9,27.4,26.9,26.5,26.0,25.6,25.2,24.8,24.3,23.8
+538,TGO,Togo,Stunting,Proportion,Lower Uncertainty Bound,33.0,32.5,32.0,31.4,30.7,30.2,29.5,28.9,28.3,27.8,27.3,26.7,26.1,25.6,24.9,24.3,23.6,22.9,22.2,21.5,20.8
+539,TGO,Togo,Stunting,Proportion,Upper Uncertainty Bound,37.5,36.9,36.2,35.4,34.6,33.9,33.1,32.3,31.5,30.8,30.0,29.3,28.8,28.4,28.1,27.9,27.7,27.7,27.6,27.4,27.2
+543,TON,Tonga,Stunting,Proportion,Point Estimate,12.9,12.4,11.9,11.4,10.8,10.2,9.6,9.1,8.7,8.3,7.8,7.3,6.7,6.1,5.5,4.9,4.3,3.8,3.3,3.0,2.6
+544,TON,Tonga,Stunting,Proportion,Lower Uncertainty Bound,8.3,8.2,8.2,8.0,7.8,7.6,7.3,7.1,6.9,6.7,6.5,6.2,5.8,5.3,4.8,4.3,3.8,3.3,2.9,2.5,2.2
+545,TON,Tonga,Stunting,Proportion,Upper Uncertainty Bound,19.6,18.4,17.1,15.9,14.6,13.5,12.5,11.6,10.8,10.1,9.4,8.7,7.8,7.0,6.2,5.5,4.9,4.3,3.9,3.5,3.2
+546,TTO,Trinidad and Tobago,Stunting,Proportion,Point Estimate,5.9,6.0,6.3,6.5,6.7,7.0,7.2,7.5,7.7,7.9,8.2,8.4,8.5,8.6,8.7,8.6,8.7,8.7,8.7,8.7,8.7
+547,TTO,Trinidad and Tobago,Stunting,Proportion,Lower Uncertainty Bound,5.0,5.2,5.4,5.6,5.8,6.0,6.2,6.4,6.6,6.9,7.1,7.2,7.3,7.2,7.1,6.9,6.7,6.5,6.3,6.1,6.0
+548,TTO,Trinidad and Tobago,Stunting,Proportion,Upper Uncertainty Bound,6.9,7.0,7.2,7.5,7.8,8.1,8.4,8.7,8.9,9.2,9.5,9.7,10.0,10.3,10.5,10.7,11.1,11.5,11.8,12.2,12.6
+549,TUN,Tunisia,Stunting,Proportion,Point Estimate,12.9,12.5,12.1,11.8,11.4,11.1,10.7,10.4,10.1,9.8,9.5,9.3,9.1,9.0,8.9,8.8,8.8,8.7,8.7,8.6,8.6
+550,TUN,Tunisia,Stunting,Proportion,Lower Uncertainty Bound,11.8,11.4,11.0,10.7,10.3,10.0,9.6,9.3,9.0,8.8,8.6,8.4,8.3,8.2,8.1,7.9,7.8,7.7,7.6,7.4,7.3
+551,TUN,Tunisia,Stunting,Proportion,Upper Uncertainty Bound,14.1,13.6,13.2,12.9,12.6,12.3,11.9,11.6,11.2,10.9,10.5,10.3,10.0,9.9,9.8,9.8,9.8,9.8,9.9,10.0,10.1
+555,TKM,Turkmenistan,Stunting,Proportion,Point Estimate,27.4,26.4,25.0,23.6,22.0,20.4,19.0,17.8,16.7,15.6,14.7,13.8,13.0,12.1,11.3,10.4,9.7,9.1,8.5,8.0,7.6
+556,TKM,Turkmenistan,Stunting,Proportion,Lower Uncertainty Bound,24.5,23.9,22.8,21.5,20.0,18.4,17.1,15.9,14.9,13.9,13.1,12.4,11.7,11.0,10.3,9.5,8.8,8.2,7.6,7.1,6.6
+557,TKM,Turkmenistan,Stunting,Proportion,Upper Uncertainty Bound,30.5,29.1,27.4,25.8,24.2,22.5,21.1,19.9,18.6,17.4,16.4,15.3,14.3,13.3,12.4,11.5,10.7,10.1,9.6,9.1,8.7
+561,TUV,Tuvalu,Stunting,Proportion,Point Estimate,12.1,11.6,11.2,10.9,10.6,10.5,10.4,10.3,10.2,10.1,10.1,10.0,10.0,10.0,9.9,9.9,9.9,9.9,9.8,9.8,9.7
+562,TUV,Tuvalu,Stunting,Proportion,Lower Uncertainty Bound,8.6,8.6,8.6,8.7,8.7,8.8,8.8,8.8,8.7,8.6,8.4,8.1,7.9,7.7,7.4,7.1,6.9,6.6,6.4,6.1,5.9
+563,TUV,Tuvalu,Stunting,Proportion,Upper Uncertainty Bound,16.6,15.5,14.5,13.6,12.9,12.5,12.2,12.0,11.9,12.0,12.1,12.3,12.5,12.9,13.2,13.6,14.0,14.5,14.9,15.3,15.7
+564,UGA,Uganda,Stunting,Proportion,Point Estimate,44.0,43.3,42.5,41.8,41.0,40.2,39.5,38.7,37.8,36.9,36.0,35.0,34.1,32.9,31.8,30.7,29.9,29.3,28.8,28.4,27.9
+565,UGA,Uganda,Stunting,Proportion,Lower Uncertainty Bound,41.4,40.8,40.1,39.4,38.6,37.9,37.2,36.5,35.8,35.0,34.3,33.4,32.5,31.3,30.0,28.7,27.5,26.6,25.8,25.0,24.2
+566,UGA,Uganda,Stunting,Proportion,Upper Uncertainty Bound,46.7,45.8,45.0,44.2,43.3,42.5,41.8,40.9,39.9,38.9,37.8,36.7,35.7,34.6,33.6,32.8,32.4,32.1,32.1,32.0,31.9
+567,UKR,Ukraine,Stunting,Proportion,Point Estimate,22.4,22.2,22.0,21.7,21.2,20.8,20.3,19.8,19.4,19.3,19.2,19.5,19.1,18.6,18.3,18.9,19.1,18.9,18.3,17.5,15.9
+568,UKR,Ukraine,Stunting,Proportion,Lower Uncertainty Bound,19.6,19.4,18.8,18.1,17.2,16.3,15.5,14.7,14.1,13.7,13.4,13.4,12.8,12.2,11.8,11.9,11.8,11.3,10.7,9.9,8.8
+569,UKR,Ukraine,Stunting,Proportion,Upper Uncertainty Bound,25.4,25.3,25.5,25.7,25.9,26.1,26.2,26.2,26.2,26.5,26.8,27.6,27.4,27.2,27.3,28.7,29.5,29.8,29.6,29.0,27.2
+576,TZA,United Republic of Tanzania,Stunting,Proportion,Point Estimate,47.7,46.8,45.9,45.1,44.3,43.6,43.1,42.6,42.1,41.4,40.6,39.5,38.3,37.1,36.1,35.3,34.8,34.2,33.6,32.8,32.0
+577,TZA,United Republic of Tanzania,Stunting,Proportion,Lower Uncertainty Bound,45.3,44.6,43.7,42.9,42.1,41.5,40.9,40.5,40.1,39.5,38.8,37.9,36.8,35.7,34.5,33.6,32.8,31.9,31.0,29.9,28.8
+578,TZA,United Republic of Tanzania,Stunting,Proportion,Upper Uncertainty Bound,50.1,49.2,48.2,47.3,46.5,45.8,45.3,44.7,44.1,43.4,42.3,41.1,39.8,38.6,37.7,37.1,36.8,36.6,36.3,35.9,35.3
+579,USA,United States,Stunting,Proportion,Point Estimate,3.1,3.0,2.9,2.9,2.8,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.8,2.8,2.9,2.9,3.0,3.1,3.1,3.2
+580,USA,United States,Stunting,Proportion,Lower Uncertainty Bound,2.8,2.7,2.7,2.6,2.6,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.6,2.6,2.7,2.7,2.7,2.7,2.7,2.8
+581,USA,United States,Stunting,Proportion,Upper Uncertainty Bound,3.5,3.4,3.2,3.1,3.0,3.0,3.0,2.9,2.9,2.9,2.9,2.9,2.9,3.0,3.1,3.1,3.2,3.3,3.5,3.6,3.7
+582,URY,Uruguay,Stunting,Proportion,Point Estimate,14.6,14.1,13.6,13.2,12.7,12.2,11.7,11.2,10.7,10.2,9.8,9.3,8.9,8.5,8.2,7.8,7.5,7.2,6.9,6.7,6.5
+583,URY,Uruguay,Stunting,Proportion,Lower Uncertainty Bound,13.3,13.1,12.7,12.3,11.9,11.4,10.8,10.3,9.9,9.5,9.0,8.7,8.3,8.0,7.6,7.2,6.9,6.5,6.2,5.9,5.6
+584,URY,Uruguay,Stunting,Proportion,Upper Uncertainty Bound,16.0,15.3,14.6,14.1,13.6,13.1,12.6,12.1,11.6,11.1,10.5,10.0,9.6,9.2,8.8,8.5,8.2,7.9,7.7,7.6,7.4
+585,UZB,Uzbekistan,Stunting,Proportion,Point Estimate,29.5,27.5,25.6,23.9,22.4,21.0,19.8,18.7,17.7,16.7,15.8,15.0,14.2,13.5,12.8,12.1,11.5,11.1,10.7,10.3,9.9
+586,UZB,Uzbekistan,Stunting,Proportion,Lower Uncertainty Bound,27.3,25.4,23.7,22.0,20.5,19.1,17.9,16.8,15.8,15.0,14.2,13.4,12.7,12.1,11.4,10.7,10.1,9.6,9.1,8.7,8.3
+587,UZB,Uzbekistan,Stunting,Proportion,Upper Uncertainty Bound,31.8,29.7,27.7,26.0,24.4,23.0,21.9,20.7,19.6,18.6,17.6,16.6,15.8,15.0,14.3,13.6,13.1,12.7,12.4,12.1,11.9
+588,VUT,Vanuatu,Stunting,Proportion,Point Estimate,25.1,25.1,25.3,25.6,26.0,26.3,26.5,26.7,26.8,26.9,27.0,27.2,27.3,27.5,27.7,27.9,28.2,28.4,28.5,28.6,28.7
+589,VUT,Vanuatu,Stunting,Proportion,Lower Uncertainty Bound,22.4,22.4,22.6,22.8,23.2,23.5,23.8,24.1,24.3,24.5,24.7,24.8,24.8,24.8,24.6,24.3,24.0,23.6,23.2,22.8,22.3
+590,VUT,Vanuatu,Stunting,Proportion,Upper Uncertainty Bound,28.1,28.1,28.3,28.6,28.9,29.3,29.5,29.6,29.5,29.5,29.5,29.6,29.9,30.4,31.1,31.9,32.7,33.6,34.5,35.2,36.0
+591,VEN,Venezuela (Bolivarian Republic of),Stunting,Proportion,Point Estimate,17.8,17.4,17.1,17.0,16.9,16.7,16.1,15.5,14.8,14.2,13.6,13.1,12.5,12.0,11.6,11.2,10.9,10.8,10.7,10.6,10.6
+592,VEN,Venezuela (Bolivarian Republic of),Stunting,Proportion,Lower Uncertainty Bound,17.0,16.6,16.4,16.3,16.1,15.8,15.3,14.6,13.8,13.1,12.3,11.6,10.8,10.1,9.4,8.8,8.3,7.9,7.6,7.3,7.1
+593,VEN,Venezuela (Bolivarian Republic of),Stunting,Proportion,Upper Uncertainty Bound,18.6,18.1,17.9,17.8,17.8,17.5,17.0,16.4,15.8,15.4,15.0,14.8,14.5,14.3,14.2,14.2,14.2,14.5,14.8,15.2,15.5
+594,VNM,Viet Nam,Stunting,Proportion,Point Estimate,41.8,39.8,38.0,36.1,34.4,32.9,31.6,30.4,29.4,28.5,27.6,26.8,25.9,25.7,25.0,24.4,23.9,23.6,23.0,22.7,22.3
+595,VNM,Viet Nam,Stunting,Proportion,Lower Uncertainty Bound,40.2,38.3,36.7,34.9,33.2,31.7,30.4,29.2,28.3,27.4,26.6,25.8,24.9,24.7,23.9,23.2,22.6,22.0,21.3,20.7,20.1
+596,VNM,Viet Nam,Stunting,Proportion,Upper Uncertainty Bound,43.4,41.3,39.3,37.4,35.6,34.1,32.8,31.6,30.6,29.6,28.7,27.7,26.8,26.7,26.1,25.7,25.4,25.2,24.9,24.8,24.7
+597,YEM,Yemen,Stunting,Proportion,Point Estimate,55.2,55.4,55.6,55.6,55.4,55.0,54.4,53.6,52.6,51.5,50.1,48.8,47.4,46.0,44.5,43.1,41.7,40.5,39.3,38.2,37.2
+598,YEM,Yemen,Stunting,Proportion,Lower Uncertainty Bound,52.9,53.2,53.3,53.3,53.0,52.5,51.9,51.1,50.2,49.0,47.7,46.3,44.7,43.0,41.0,39.1,37.2,35.4,33.7,32.1,30.6
+599,YEM,Yemen,Stunting,Proportion,Upper Uncertainty Bound,57.4,57.7,57.8,57.9,57.8,57.5,56.9,56.1,55.1,53.8,52.5,51.2,50.1,49.0,48.0,47.2,46.4,45.8,45.3,44.8,44.3
+600,ZMB,Zambia,Stunting,Proportion,Point Estimate,54.0,53.6,52.9,52.0,51.1,50.1,49.0,47.9,46.7,45.4,44.0,42.6,41.3,40.1,38.9,37.6,36.2,35.0,33.8,32.9,32.3
+601,ZMB,Zambia,Stunting,Proportion,Lower Uncertainty Bound,51.9,51.4,50.6,49.7,48.5,47.4,46.2,45.1,44.0,42.8,41.4,40.2,38.9,37.7,36.5,35.1,33.6,32.1,30.7,29.5,28.7
+602,ZMB,Zambia,Stunting,Proportion,Upper Uncertainty Bound,56.2,55.7,55.1,54.4,53.6,52.7,51.7,50.7,49.5,48.2,46.6,45.1,43.7,42.4,41.3,40.1,38.9,37.9,37.0,36.4,36.1
+603,ZWE,Zimbabwe,Stunting,Proportion,Point Estimate,32.4,33.0,33.6,34.1,34.5,34.6,34.6,34.4,34.4,34.2,33.7,32.8,31.4,29.7,28.2,26.8,25.8,24.9,24.2,23.5,23.0
+604,ZWE,Zimbabwe,Stunting,Proportion,Lower Uncertainty Bound,30.1,30.7,31.4,32.0,32.3,32.5,32.5,32.3,32.4,32.3,31.9,31.1,29.8,28.2,26.7,25.3,24.1,23.1,22.2,21.3,20.6
+605,ZWE,Zimbabwe,Stunting,Proportion,Upper Uncertainty Bound,34.8,35.3,35.8,36.3,36.6,36.8,36.7,36.5,36.5,36.2,35.6,34.5,33.0,31.3,29.7,28.4,27.5,26.9,26.4,25.9,25.6
